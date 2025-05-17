@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>My Site Blog</title>
-        <link>https://your-docusaurus-site.example.com/blog</link>
-        <description>My Site Blog</description>
+        <title>Gilián Dobiskola Blog</title>
+        <link>https://giliandob.github.io/blog</link>
+        <description>Gilián Dobiskola Blog</description>
         <lastBuildDate>Thu, 10 Apr 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>hu</language>
         <item>
             <title><![CDATA[Az Afro-Kubai Rumba Mélységei: Güagüancó, Yambú és Columbia Dobfelszerelésen 🇨🇺🌶️🥁]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/afro-kubai-rumba-dobfelszerelesen-guaguanco-yambu-columbia</link>
-            <guid>https://your-docusaurus-site.example.com/blog/afro-kubai-rumba-dobfelszerelesen-guaguanco-yambu-columbia</guid>
+            <link>https://giliandob.github.io/blog/afro-kubai-rumba-dobfelszerelesen-guaguanco-yambu-columbia</link>
+            <guid>https://giliandob.github.io/blog/afro-kubai-rumba-dobfelszerelesen-guaguanco-yambu-columbia</guid>
             <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Sziasztok vérbeli ritmuskutatók! Gábor vagyok, és ma egy igazán autentikus és mély témába ásunk le a Yambú, Güagüancó és Columbia stílusokba. Ha a clave már a véredben van, és a salsa alapjain túl valami igazán földközeli, nyers és erőteljes ritmikára vágysz, akkor ez a bejegyzés neked szól! Ezek a ritmusok Kuba zenei lelkének legmélyéről fakadnak, és dobfelszerelésre adaptálásuk igazi kihívás, de egyben hihetetlenül izgalmas utazás is. Ennek tényleg szívből, és nagyon autentikusan kell szólnia!]]></description>
             <content:encoded><![CDATA[<p>Sziasztok vérbeli ritmuskutatók! Gábor vagyok, és ma egy igazán autentikus és mély témába ásunk le: az afro-kubai rumba világába, azon belül is a három fő ágába: a Yambú, Güagüancó és Columbia stílusokba. Ha a clave már a véredben van, és a salsa alapjain túl valami igazán földközeli, nyers és erőteljes ritmikára vágysz, akkor ez a bejegyzés neked szól! Ezek a ritmusok Kuba zenei lelkének legmélyéről fakadnak, és dobfelszerelésre adaptálásuk igazi kihívás, de egyben hihetetlenül izgalmas utazás is. Ennek tényleg <strong>szívből</strong>, és nagyon autentikusan kell szólnia!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mi-is-az-afro-kubai-rumba">Mi is az Afro-Kubai Rumba?<a href="https://your-docusaurus-site.example.com/blog/afro-kubai-rumba-dobfelszerelesen-guaguanco-yambu-columbia#mi-is-az-afro-kubai-rumba" class="hash-link" aria-label="Közvetlen hivatkozás erre: Mi is az Afro-Kubai Rumba?" title="Közvetlen hivatkozás erre: Mi is az Afro-Kubai Rumba?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mi-is-az-afro-kubai-rumba">Mi is az Afro-Kubai Rumba?<a href="https://giliandob.github.io/blog/afro-kubai-rumba-dobfelszerelesen-guaguanco-yambu-columbia#mi-is-az-afro-kubai-rumba" class="hash-link" aria-label="Közvetlen hivatkozás erre: Mi is az Afro-Kubai Rumba?" title="Közvetlen hivatkozás erre: Mi is az Afro-Kubai Rumba?">​</a></h2>
 <p>A rumba egy komplex, ütőhangszeres és énekes-táncos műfaj, ami a 19. századi Kubában alakult ki, afrikai (főleg bantu) és spanyol zenei hagyományok ötvözeteként. Fontos megkülönböztetni a populáris, "báltermi" rumbától; az afro-kubai rumba sokkal nyersebb, autentikusabb és ütőhangszer-központúbb.</p>
 <p>A rumba alapvetően közösségi esemény, ahol a zenészek, énekesek és táncosok szoros interakcióban vannak egymással. A ritmusok poliritmikusak, a clave (általában rumba clave) pedig itt is alapvető szervező erő.</p>
 <p><strong>A három fő rumba stílus:</strong></p>
@@ -24,8 +24,8 @@
 <li><strong>Güagüancó:</strong> Közepes tempójú, a legismertebb és leggyakrabban játszott rumba forma. Jellemzője a "vacunao", egy szimbolikus, játékos "üldözés" a férfi és női táncos között.</li>
 <li><strong>Columbia:</strong> Gyors, energikus, virtuóz férfi szólótánc, gyakran akrobatikus elemekkel. A ritmusa 6/8-os lüktetésű, ellentétben a Yambú és Güagüancó 4/4-es (vagy inkább 2/2-es) alapjával.</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image1-cf25a27853c4fe4319c4db6070cc0b96.jpg" width="3264" height="3600" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-rumba-hangszerei-és-adaptálásuk-dobfelszerelésre">A Rumba Hangszerei és Adaptálásuk Dobfelszerelésre<a href="https://your-docusaurus-site.example.com/blog/afro-kubai-rumba-dobfelszerelesen-guaguanco-yambu-columbia#a-rumba-hangszerei-%C3%A9s-adapt%C3%A1l%C3%A1suk-dobfelszerel%C3%A9sre" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Rumba Hangszerei és Adaptálásuk Dobfelszerelésre" title="Közvetlen hivatkozás erre: A Rumba Hangszerei és Adaptálásuk Dobfelszerelésre">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image1-cf25a27853c4fe4319c4db6070cc0b96.jpg" width="3264" height="3600" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-rumba-hangszerei-és-adaptálásuk-dobfelszerelésre">A Rumba Hangszerei és Adaptálásuk Dobfelszerelésre<a href="https://giliandob.github.io/blog/afro-kubai-rumba-dobfelszerelesen-guaguanco-yambu-columbia#a-rumba-hangszerei-%C3%A9s-adapt%C3%A1l%C3%A1suk-dobfelszerel%C3%A9sre" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Rumba Hangszerei és Adaptálásuk Dobfelszerelésre" title="Közvetlen hivatkozás erre: A Rumba Hangszerei és Adaptálásuk Dobfelszerelésre">​</a></h2>
 <p>Tradicionálisan a rumbát különböző méretű conga dobokon (tumbadora, segundo/tres golpes, quinto), clave-n, catá-n (egy fatörzsön vagy bambuszon játszott pattern) és néha shekerén játsszák. Dobfelszerelésre adaptálásuk kreativitást és a hangszerek funkcióinak megértését igényli.</p>
 <ol>
 <li><strong>Clave:</strong> Mindig a rumba clave (2-3 vagy 3-2). Ezt játszhatod a bal lábaddal a lábcin pedálján, cross-stick-kel a pergőn, vagy akár egy külön clave block-on.</li>
@@ -38,7 +38,7 @@
 </ul>
 </li>
 </ol>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="yambú-dobfelszerelésen-lassú-tempó">Yambú Dobfelszerelésen (Lassú Tempó)<a href="https://your-docusaurus-site.example.com/blog/afro-kubai-rumba-dobfelszerelesen-guaguanco-yambu-columbia#yamb%C3%BA-dobfelszerel%C3%A9sen-lass%C3%BA-temp%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Yambú Dobfelszerelésen (Lassú Tempó)" title="Közvetlen hivatkozás erre: Yambú Dobfelszerelésen (Lassú Tempó)">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="yambú-dobfelszerelésen-lassú-tempó">Yambú Dobfelszerelésen (Lassú Tempó)<a href="https://giliandob.github.io/blog/afro-kubai-rumba-dobfelszerelesen-guaguanco-yambu-columbia#yamb%C3%BA-dobfelszerel%C3%A9sen-lass%C3%BA-temp%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Yambú Dobfelszerelésen (Lassú Tempó)" title="Közvetlen hivatkozás erre: Yambú Dobfelszerelésen (Lassú Tempó)">​</a></h2>
 <ul>
 <li><strong>Lüktetés:</strong> Nyugodt, "ringató".</li>
 <li><strong>Lábdob/Floor Tom (Tumbadora):</strong> Egyszerű, stabil alap, gyakran a clave "hármas" oldalának első és utolsó ütését hangsúlyozva.</li>
@@ -46,7 +46,7 @@
 <li><strong>Catá (Lábcin/Ride):</strong> Folyamatos, de nem túl sűrű pattern.</li>
 <li><strong>Quinto (Magas Tam/Pergő):</strong> Kevés, ízléses díszítés.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="güagüancó-dobfelszerelésen-közepes-tempó">Güagüancó Dobfelszerelésen (Közepes Tempó)<a href="https://your-docusaurus-site.example.com/blog/afro-kubai-rumba-dobfelszerelesen-guaguanco-yambu-columbia#g%C3%BCag%C3%BCanc%C3%B3-dobfelszerel%C3%A9sen-k%C3%B6zepes-temp%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Güagüancó Dobfelszerelésen (Közepes Tempó)" title="Közvetlen hivatkozás erre: Güagüancó Dobfelszerelésen (Közepes Tempó)">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="güagüancó-dobfelszerelésen-közepes-tempó">Güagüancó Dobfelszerelésen (Közepes Tempó)<a href="https://giliandob.github.io/blog/afro-kubai-rumba-dobfelszerelesen-guaguanco-yambu-columbia#g%C3%BCag%C3%BCanc%C3%B3-dobfelszerel%C3%A9sen-k%C3%B6zepes-temp%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Güagüancó Dobfelszerelésen (Közepes Tempó)" title="Közvetlen hivatkozás erre: Güagüancó Dobfelszerelésen (Közepes Tempó)">​</a></h2>
 <ul>
 <li><strong>Lüktetés:</strong> Energikusabb, táncosabb.</li>
 <li><strong>Lábdob/Floor Tom (Tumbadora):</strong> Határozottabb, szinkópáltabb alap.</li>
@@ -54,7 +54,7 @@
 <li><strong>Catá (Lábcin/Ride):</strong> Sűrűbb, hajtósabb pattern.</li>
 <li><strong>Quinto (Magas Tam/Pergő):</strong> Több improvizáció, "beszélgetés" a ritmussal.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="columbia-dobfelszerelésen-gyors-68-os-tempó">Columbia Dobfelszerelésen (Gyors 6/8-os Tempó)<a href="https://your-docusaurus-site.example.com/blog/afro-kubai-rumba-dobfelszerelesen-guaguanco-yambu-columbia#columbia-dobfelszerel%C3%A9sen-gyors-68-os-temp%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Columbia Dobfelszerelésen (Gyors 6/8-os Tempó)" title="Közvetlen hivatkozás erre: Columbia Dobfelszerelésen (Gyors 6/8-os Tempó)">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="columbia-dobfelszerelésen-gyors-68-os-tempó">Columbia Dobfelszerelésen (Gyors 6/8-os Tempó)<a href="https://giliandob.github.io/blog/afro-kubai-rumba-dobfelszerelesen-guaguanco-yambu-columbia#columbia-dobfelszerel%C3%A9sen-gyors-68-os-temp%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Columbia Dobfelszerelésen (Gyors 6/8-os Tempó)" title="Közvetlen hivatkozás erre: Columbia Dobfelszerelésen (Gyors 6/8-os Tempó)">​</a></h2>
 <ul>
 <li><strong>Lüktetés:</strong> Intenzív, erőteljes, triolás érzetű. A clave itt is jelen van, de a 6/8-os keretben másképp értelmeződik.</li>
 <li><strong>Lábdob/Floor Tom (Tumbadora):</strong> Erős, lüktető 6/8-os alap, gyakran a negyed-nyolcad (vagy pontozott negyed) érzetet hangsúlyozva.</li>
@@ -62,7 +62,7 @@
 <li><strong>Catá (Lábcin/Ride):</strong> Gyors, folyamatos 6/8-os pattern, gyakran a clave-val összefonódva.</li>
 </ul>
 <p><strong>Tanácsom:</strong> "Az afro-kubai rumba elsajátítása igazi mélyfúrás a ritmusok világában. Itt nem elég csak a mintákat megtanulni; érezni kell a lüktetést, a táncot, a kultúrát, amiből fakad. Hallgass rengeteg autentikus rumba zenét (pl. Los Muñequitos de Matanzas, Yoruba Andabo, Clave Y Guaguancó). Próbáld meg először csak a clave-t és a catá-t stabilan játszani, majd fokozatosan add hozzá a többi szólamot. A legfontosabb a türelem és az alázat ezekkel a komplex, de csodálatos ritmusokkal szemben. A cél, hogy a dobjaid 'énekeljenek' és 'táncoljanak' úgy, ahogy azt a rumba megkívánja."</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://your-docusaurus-site.example.com/blog/afro-kubai-rumba-dobfelszerelesen-guaguanco-yambu-columbia#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://giliandob.github.io/blog/afro-kubai-rumba-dobfelszerelesen-guaguanco-yambu-columbia#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
 <p>Az afro-kubai rumba világa végtelenül gazdag és inspiráló. Dobosként ezeknek a ritmusoknak a megértése és elsajátítása nemcsak a technikai képességeidet fejleszti, hanem a zenei látásmódodat is gyökeresen megváltoztathatja. Új kapukat nyit meg a poliritmia, az improvizáció és a zenei kommunikáció terén.</p>
 <p>Ha készen állsz erre a mély és izgalmas utazásra az afro-kubai ritmusok szívébe, és szeretnél személyre szabott útmutatást kapni, keress bizalommal! Együtt felfedezzük a rumba varázsát a dobfelszereléseden!</p>
 <p>Hallottál már autentikus afro-kubai rumbát? Melyik stílus ragadott meg a leginkább?</p>]]></content:encoded>
@@ -77,12 +77,12 @@
         </item>
         <item>
             <title><![CDATA[A Lábdob Technika Mesterfogásai: Sebesség, Kontroll és Erő a Talpad Alatt! 🦶💨]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/labdob-technika-mesterfogasok-kontroll</link>
-            <guid>https://your-docusaurus-site.example.com/blog/labdob-technika-mesterfogasok-kontroll</guid>
+            <link>https://giliandob.github.io/blog/labdob-technika-mesterfogasok-kontroll</link>
+            <guid>https://giliandob.github.io/blog/labdob-technika-mesterfogasok-kontroll</guid>
             <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Sziasztok lábvirtuózok! Gábor vagyok, és ma egy olyan témába mélyedünk el, ami minden dobos számára kulcsfontosságú, mégis néha méltatlanul a háttérbe szorul a kéztechnika mellett: a lábdob technikáról! Legyen szó kőkemény rockról, feszes funkról, pörgős latin ritmusokról vagy akár gyors jazz tempókról, a magabiztos, gyors és kontrollált lábdob játék elengedhetetlen. Ebben a bejegyzésben bemutatok néhány alapvető és haladóbb lábtechnikát, és tippeket adok, hogyan fejlesztheted a sebességedet, erődet és pontosságodat. Mert a jó groove-nak a talpad alatt is szívből kell szólnia!]]></description>
             <content:encoded><![CDATA[<p>Sziasztok lábvirtuózok! Gábor vagyok, és ma egy olyan témába mélyedünk el, ami minden dobos számára kulcsfontosságú, mégis néha méltatlanul a háttérbe szorul a kéztechnika mellett: a lábdob technikáról! Legyen szó kőkemény rockról, feszes funkról, pörgős latin ritmusokról vagy akár gyors jazz tempókról, a magabiztos, gyors és kontrollált lábdob játék elengedhetetlen. Ebben a bejegyzésben bemutatok néhány alapvető és haladóbb lábtechnikát, és tippeket adok, hogyan fejlesztheted a sebességedet, erődet és pontosságodat. Mert a jó groove-nak a talpad alatt is <strong>szívből kell szólnia</strong>!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="miért-olyan-fontos-a-jó-lábdob-technika">Miért Olyan Fontos a Jó Lábdob Technika?<a href="https://your-docusaurus-site.example.com/blog/labdob-technika-mesterfogasok-kontroll#mi%C3%A9rt-olyan-fontos-a-j%C3%B3-l%C3%A1bdob-technika" class="hash-link" aria-label="Közvetlen hivatkozás erre: Miért Olyan Fontos a Jó Lábdob Technika?" title="Közvetlen hivatkozás erre: Miért Olyan Fontos a Jó Lábdob Technika?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="miért-olyan-fontos-a-jó-lábdob-technika">Miért Olyan Fontos a Jó Lábdob Technika?<a href="https://giliandob.github.io/blog/labdob-technika-mesterfogasok-kontroll#mi%C3%A9rt-olyan-fontos-a-j%C3%B3-l%C3%A1bdob-technika" class="hash-link" aria-label="Közvetlen hivatkozás erre: Miért Olyan Fontos a Jó Lábdob Technika?" title="Közvetlen hivatkozás erre: Miért Olyan Fontos a Jó Lábdob Technika?">​</a></h2>
 <p>A lábdob (vagy nagydob) a dobfelszerelés lelke, a ritmus alapja. A rajta játszott minták adják a zene lüktetését, súlyát és energiáját. Egy gyenge, pontatlan vagy lassú lábdob játék az egész zenekari hangzást tönkreteheti.</p>
 <p><strong>A fejlett lábdob technika előnyei:</strong></p>
 <ul>
@@ -92,8 +92,8 @@
 <li><strong>Sokoldalúság:</strong> Különböző zenei stílusokban magabiztosan tudsz helytállni.</li>
 <li><strong>Kreativitás:</strong> Új ritmikai lehetőségek nyílnak meg előtted.</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image2-b23fb66f971666003a890d9c9eb86f15.jpg" width="3456" height="4608" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="alapvető-lábdob-technikák">Alapvető Lábdob Technikák<a href="https://your-docusaurus-site.example.com/blog/labdob-technika-mesterfogasok-kontroll#alapvet%C5%91-l%C3%A1bdob-technik%C3%A1k" class="hash-link" aria-label="Közvetlen hivatkozás erre: Alapvető Lábdob Technikák" title="Közvetlen hivatkozás erre: Alapvető Lábdob Technikák">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image2-b23fb66f971666003a890d9c9eb86f15.jpg" width="3456" height="4608" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="alapvető-lábdob-technikák">Alapvető Lábdob Technikák<a href="https://giliandob.github.io/blog/labdob-technika-mesterfogasok-kontroll#alapvet%C5%91-l%C3%A1bdob-technik%C3%A1k" class="hash-link" aria-label="Közvetlen hivatkozás erre: Alapvető Lábdob Technikák" title="Közvetlen hivatkozás erre: Alapvető Lábdob Technikák">​</a></h2>
 <p>Mielőtt a haladóbb dolgokba belevágnánk, győződj meg róla, hogy az alapok stabilak!</p>
 <ol>
 <li>
@@ -114,7 +114,7 @@
 </li>
 </ol>
 <p><strong>Tanácsom:</strong> "Érdemes mindkét alaptechnikát elsajátítani, mert különböző zenei helyzetekben más-más előnyökkel járnak. Ne ragaszkodj görcsösen csak az egyikhez!"</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="haladóbb-lábdob-technikák-a-sebesség-és-variációk-növelésére">Haladóbb Lábdob Technikák a Sebesség és Variációk Növelésére<a href="https://your-docusaurus-site.example.com/blog/labdob-technika-mesterfogasok-kontroll#halad%C3%B3bb-l%C3%A1bdob-technik%C3%A1k-a-sebess%C3%A9g-%C3%A9s-vari%C3%A1ci%C3%B3k-n%C3%B6vel%C3%A9s%C3%A9re" class="hash-link" aria-label="Közvetlen hivatkozás erre: Haladóbb Lábdob Technikák a Sebesség és Variációk Növelésére" title="Közvetlen hivatkozás erre: Haladóbb Lábdob Technikák a Sebesség és Variációk Növelésére">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="haladóbb-lábdob-technikák-a-sebesség-és-variációk-növelésére">Haladóbb Lábdob Technikák a Sebesség és Variációk Növelésére<a href="https://giliandob.github.io/blog/labdob-technika-mesterfogasok-kontroll#halad%C3%B3bb-l%C3%A1bdob-technik%C3%A1k-a-sebess%C3%A9g-%C3%A9s-vari%C3%A1ci%C3%B3k-n%C3%B6vel%C3%A9s%C3%A9re" class="hash-link" aria-label="Közvetlen hivatkozás erre: Haladóbb Lábdob Technikák a Sebesség és Variációk Növelésére" title="Közvetlen hivatkozás erre: Haladóbb Lábdob Technikák a Sebesség és Variációk Növelésére">​</a></h2>
 <p>Ha már magabiztosan használod az alaptechnikákat, jöhetnek az izgalmasabb dolgok!</p>
 <ol>
 <li>
@@ -148,7 +148,7 @@
 </ul>
 </li>
 </ol>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tippek-a-lábdob-technika-fejlesztéséhez">Tippek a Lábdob Technika Fejlesztéséhez<a href="https://your-docusaurus-site.example.com/blog/labdob-technika-mesterfogasok-kontroll#tippek-a-l%C3%A1bdob-technika-fejleszt%C3%A9s%C3%A9hez" class="hash-link" aria-label="Közvetlen hivatkozás erre: Tippek a Lábdob Technika Fejlesztéséhez" title="Közvetlen hivatkozás erre: Tippek a Lábdob Technika Fejlesztéséhez">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tippek-a-lábdob-technika-fejlesztéséhez">Tippek a Lábdob Technika Fejlesztéséhez<a href="https://giliandob.github.io/blog/labdob-technika-mesterfogasok-kontroll#tippek-a-l%C3%A1bdob-technika-fejleszt%C3%A9s%C3%A9hez" class="hash-link" aria-label="Közvetlen hivatkozás erre: Tippek a Lábdob Technika Fejlesztéséhez" title="Közvetlen hivatkozás erre: Tippek a Lábdob Technika Fejlesztéséhez">​</a></h2>
 <ul>
 <li><strong>Lassú, Tudatos Gyakorlás Metronómra:</strong> Mint minden technikánál, itt is a lassú, pontos kezdés a legfontosabb. Koncentrálj a mozdulatok tisztaságára, az egyenletességre.</li>
 <li><strong>Izoláció:</strong> Gyakorold csak a lábdobot, anélkül, hogy a kezeidet használnád. Ez segít jobban fókuszálni a lábmozgásra.</li>
@@ -158,9 +158,9 @@
 <li><strong>Videózd Magad:</strong> Nézd vissza a játékodat, hogy lásd, min kellene javítanod a testtartásodon, lábpozíciódon.</li>
 <li><strong>Inspirálódj Másoktól:</strong> Figyeld meg, hogyan játszanak a kedvenc dobosaid, milyen lábtechnikákat használnak.</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image1-c7d4df772028b36406b86bae3e266215.jpg" width="3150" height="4200" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image1-c7d4df772028b36406b86bae3e266215.jpg" width="3150" height="4200" class="img_ev3q"></p>
 <p><strong>Személyes megjegyzés:</strong> "A lábdob technika fejlesztése türelmet és kitartást igényel. Ne csüggedj, ha nem megy minden azonnal! A rendszeres, fókuszált gyakorlás meghozza gyümölcsét. És ne feledd, a cél nemcsak a sebesség, hanem a zeneiség, a kontroll és az, hogy a lábdobod is szerves része legyen a groove-nak, a zenei kifejezésnek."</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://your-docusaurus-site.example.com/blog/labdob-technika-mesterfogasok-kontroll#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://giliandob.github.io/blog/labdob-technika-mesterfogasok-kontroll#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
 <p>A magabiztos lábdob játék óriási szabadságot ad a dobolásban. A fenti technikák és tippek segítségével te is szert tehetsz arra a sebességre, kontrollra és erőre, amivel bármilyen zenei kihívásnak magabiztosan nézhetsz elébe.</p>
 <p>Ha szeretnél személyre szabott tanácsokat kapni a lábdob technikád fejlesztéséhez, vagy konkrét gyakorlatokra van szükséged, keress bátran! Segítek, hogy a talpad alatt is igazi erőmű működjön!</p>
 <p>Melyik lábdob technika okozza neked a legnagyobb kihívást? Van kedvenc gyakorlatod a lábfejlesztésre?</p>]]></content:encoded>
@@ -176,12 +176,12 @@
         </item>
         <item>
             <title><![CDATA[Az Első Zenekari Próbád Dobosként: Tippek, Etikett és Hogyan Ne Izgulj Túl? 🎸🥁🎤]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/elso-zenekari-proba-dobos-felkeszules</link>
-            <guid>https://your-docusaurus-site.example.com/blog/elso-zenekari-proba-dobos-felkeszules</guid>
+            <link>https://giliandob.github.io/blog/elso-zenekari-proba-dobos-felkeszules</link>
+            <guid>https://giliandob.github.io/blog/elso-zenekari-proba-dobos-felkeszules</guid>
             <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Sziasztok feltörekvő rocksztárok és groove mesterek! Gábor vagyok, és ma egy olyan mérföldkőről beszélünk, ami minden dobos életében eljön egyszer (és remélhetőleg sokszor): az első zenekari próba! Izgalmas, igaz? De lehet egy kicsit ijesztő is. Mit vigyek magammal? Hogyan készüljek fel? Mit fognak szólni a többiek? Ne aggódj, mindannyian voltunk kezdők! Ebben a bejegyzésben praktikus tippeket és egy kis zenekari etikettet osztok meg veletek, hogy az első próbád ne stresszes, hanem egy fantasztikus, inspiráló élmény legyen! Mert a közös zenélésnek szívből kell szólnia!]]></description>
             <content:encoded><![CDATA[<p>Sziasztok feltörekvő rocksztárok és groove mesterek! Gábor vagyok, és ma egy olyan mérföldkőről beszélünk, ami minden dobos életében eljön egyszer (és remélhetőleg sokszor): az első zenekari próba! Izgalmas, igaz? De lehet egy kicsit ijesztő is. Mit vigyek magammal? Hogyan készüljek fel? Mit fognak szólni a többiek? Ne aggódj, mindannyian voltunk kezdők! Ebben a bejegyzésben praktikus tippeket és egy kis zenekari etikettet osztok meg veletek, hogy az első próbád ne stresszes, hanem egy fantasztikus, inspiráló élmény legyen! Mert a közös zenélésnek <strong>szívből kell szólnia</strong>!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="felkészülés-az-alapok-amik-magabiztosságot-adnak">Felkészülés: Az Alapok, Amik Magabiztosságot Adnak<a href="https://your-docusaurus-site.example.com/blog/elso-zenekari-proba-dobos-felkeszules#felk%C3%A9sz%C3%BCl%C3%A9s-az-alapok-amik-magabiztoss%C3%A1got-adnak" class="hash-link" aria-label="Közvetlen hivatkozás erre: Felkészülés: Az Alapok, Amik Magabiztosságot Adnak" title="Közvetlen hivatkozás erre: Felkészülés: Az Alapok, Amik Magabiztosságot Adnak">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="felkészülés-az-alapok-amik-magabiztosságot-adnak">Felkészülés: Az Alapok, Amik Magabiztosságot Adnak<a href="https://giliandob.github.io/blog/elso-zenekari-proba-dobos-felkeszules#felk%C3%A9sz%C3%BCl%C3%A9s-az-alapok-amik-magabiztoss%C3%A1got-adnak" class="hash-link" aria-label="Közvetlen hivatkozás erre: Felkészülés: Az Alapok, Amik Magabiztosságot Adnak" title="Közvetlen hivatkozás erre: Felkészülés: Az Alapok, Amik Magabiztosságot Adnak">​</a></h2>
 <p>Az első benyomás fontos, és a jó felkészülés segít abban, hogy magabiztosan érkezz a próbára.</p>
 <ol>
 <li>
@@ -210,8 +210,8 @@
 </ul>
 </li>
 </ol>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image1-000cc0a7e9ae7b21293774d08582ec0b.jpg" width="4896" height="3264" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-próbán-viselkedés-és-együttműködés">A Próbán: Viselkedés és Együttműködés<a href="https://your-docusaurus-site.example.com/blog/elso-zenekari-proba-dobos-felkeszules#a-pr%C3%B3b%C3%A1n-viselked%C3%A9s-%C3%A9s-egy%C3%BCttm%C5%B1k%C3%B6d%C3%A9s" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Próbán: Viselkedés és Együttműködés" title="Közvetlen hivatkozás erre: A Próbán: Viselkedés és Együttműködés">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image1-000cc0a7e9ae7b21293774d08582ec0b.jpg" width="4896" height="3264" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-próbán-viselkedés-és-együttműködés">A Próbán: Viselkedés és Együttműködés<a href="https://giliandob.github.io/blog/elso-zenekari-proba-dobos-felkeszules#a-pr%C3%B3b%C3%A1n-viselked%C3%A9s-%C3%A9s-egy%C3%BCttm%C5%B1k%C3%B6d%C3%A9s" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Próbán: Viselkedés és Együttműködés" title="Közvetlen hivatkozás erre: A Próbán: Viselkedés és Együttműködés">​</a></h2>
 <ol>
 <li><strong>Érkezz Pontosan (Vagy Kicsit Korábban):</strong> Tisztelet a többiekkel szemben. Ha korábban érkezel, van időd nyugodtan kipakolni, beállítani.</li>
 <li><strong>Légy Nyitott és Pozitív:</strong> Mosolyogj, mutatkozz be, légy barátságos! A jó hangulat alapvető a kreatív munkához.</li>
@@ -229,16 +229,16 @@
 <li><strong>Kommunikálj Zeneileg:</strong> Használj szemkontaktust, apró fejbiccentéseket. Egy jól elhelyezett beütő a fill végén segíthet a többieknek a visszatérésben.</li>
 <li><strong>Pakolj El Magad Után:</strong> Ha vége a próbának, szedd össze a cuccaidat, és hagyd rendben a helyet.</li>
 </ol>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image2-d56fb005e3bf21989d2add14679c6d16.jpg" width="6000" height="4000" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image2-d56fb005e3bf21989d2add14679c6d16.jpg" width="6000" height="4000" class="img_ev3q"></p>
 <p><strong>Személyes tippem az izgulás ellen:</strong> "Teljesen természetes, ha izgulsz az első próba előtt. Én is izgultam! A legjobb, amit tehetsz, hogy alaposan felkészülsz – ez önbizalmat ad. A próbán pedig próbálj meg a zenére koncentrálni, ne magadra. Élvezd a közös játékot! És ne feledd, a többiek is valószínűleg ugyanolyan izgatottak (vagy legalábbis megértőek), mint te. Egy jó csapatban a cél a közös alkotás öröme."</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mit-várhatsz-az-első-próbától">Mit Várhatsz az Első Próbától?<a href="https://your-docusaurus-site.example.com/blog/elso-zenekari-proba-dobos-felkeszules#mit-v%C3%A1rhatsz-az-els%C5%91-pr%C3%B3b%C3%A1t%C3%B3l" class="hash-link" aria-label="Közvetlen hivatkozás erre: Mit Várhatsz az Első Próbától?" title="Közvetlen hivatkozás erre: Mit Várhatsz az Első Próbától?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mit-várhatsz-az-első-próbától">Mit Várhatsz az Első Próbától?<a href="https://giliandob.github.io/blog/elso-zenekari-proba-dobos-felkeszules#mit-v%C3%A1rhatsz-az-els%C5%91-pr%C3%B3b%C3%A1t%C3%B3l" class="hash-link" aria-label="Közvetlen hivatkozás erre: Mit Várhatsz az Első Próbától?" title="Közvetlen hivatkozás erre: Mit Várhatsz az Első Próbától?">​</a></h2>
 <ul>
 <li>Lehet, hogy az elején kicsit kaotikus lesz, amíg összeszoktok.</li>
 <li>Lehet, hogy nem minden dal fog elsőre tökéletesen szólni.</li>
 <li>De az is lehet, hogy fantasztikus összhang alakul ki, és már az első pillanattól kezdve élvezitek a közös zenélést!</li>
 </ul>
 <p>A legfontosabb, hogy tanulj a tapasztalatból, és érezd jól magad! Az első próba egy nagy lépés a zenekari dobossá válás útján.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://your-docusaurus-site.example.com/blog/elso-zenekari-proba-dobos-felkeszules#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://giliandob.github.io/blog/elso-zenekari-proba-dobos-felkeszules#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
 <p>Az első zenekari próba egy izgalmas kaland. Megfelelő Felkészüléssel, nyitott hozzáállással és a közös zenélés iránti lelkesedéssel felejthetetlen élménnyé teheted. Ne félj belevágni!</p>
 <p>Ha konkrét tanácsokra van szükséged a zenekari játékhoz, vagy szeretnéd jobban megérteni a dobos szerepét különböző stílusokban, keress bátran!</p>
 <p>Neked milyen emlékeid vannak az első zenekari próbádról? Milyen tanácsot adnál egy kezdőnek?</p>]]></content:encoded>
@@ -253,12 +253,12 @@
         </item>
         <item>
             <title><![CDATA[A Dobverő Seprű Művészete: Finomság és Textúra a Játékodban 🖌️🥁 (Jazz, Balladák)]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/dobvero-sepru-muveszete-finomsag-textura</link>
-            <guid>https://your-docusaurus-site.example.com/blog/dobvero-sepru-muveszete-finomsag-textura</guid>
+            <link>https://giliandob.github.io/blog/dobvero-sepru-muveszete-finomsag-textura</link>
+            <guid>https://giliandob.github.io/blog/dobvero-sepru-muveszete-finomsag-textura</guid>
             <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Sziasztok érzékeny lelkű dobosok! Gábor vagyok, és ma egy olyan eszközről lesz szó, ami a dobosok arzenáljának egyik legfinomabb, mégis rendkívül kifejező darabja: a seprűről (brushes). Sokan talán csak a jazzhez kötik, pedig a seprűvel való játék messze túlmutat ezen a műfajon, és csodálatos textúrákat, dinamikai árnyalatokat vihetünk vele balladákba, akusztikus zenékbe, vagy akár modernebb, kísérletezőbb stílusokba is. Tartsatok velem, és fedezzük fel a seprűzés művészetét, hogy a játékotok még inkább szívből szólhasson!]]></description>
             <content:encoded><![CDATA[<p>Sziasztok érzékeny lelkű dobosok! Gábor vagyok, és ma egy olyan eszközről lesz szó, ami a dobosok arzenáljának egyik legfinomabb, mégis rendkívül kifejező darabja: a seprűről (brushes). Sokan talán csak a jazzhez kötik, pedig a seprűvel való játék messze túlmutat ezen a műfajon, és csodálatos textúrákat, dinamikai árnyalatokat vihetünk vele balladákba, akusztikus zenékbe, vagy akár modernebb, kísérletezőbb stílusokba is. Tartsatok velem, és fedezzük fel a seprűzés művészetét, hogy a játékotok még inkább <strong>szívből szólhasson</strong>!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="miért-különleges-a-seprűvel-való-játék">Miért Különleges a Seprűvel Való Játék?<a href="https://your-docusaurus-site.example.com/blog/dobvero-sepru-muveszete-finomsag-textura#mi%C3%A9rt-k%C3%BCl%C3%B6nleges-a-sepr%C5%B1vel-val%C3%B3-j%C3%A1t%C3%A9k" class="hash-link" aria-label="Közvetlen hivatkozás erre: Miért Különleges a Seprűvel Való Játék?" title="Közvetlen hivatkozás erre: Miért Különleges a Seprűvel Való Játék?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="miért-különleges-a-seprűvel-való-játék">Miért Különleges a Seprűvel Való Játék?<a href="https://giliandob.github.io/blog/dobvero-sepru-muveszete-finomsag-textura#mi%C3%A9rt-k%C3%BCl%C3%B6nleges-a-sepr%C5%B1vel-val%C3%B3-j%C3%A1t%C3%A9k" class="hash-link" aria-label="Közvetlen hivatkozás erre: Miért Különleges a Seprűvel Való Játék?" title="Közvetlen hivatkozás erre: Miért Különleges a Seprűvel Való Játék?">​</a></h2>
 <p>A hagyományos dobverőkkel ellentétben, amik egyértelmű, attackos hangot produkálnak, a seprűk (amik általában fém- vagy nylonszálakból állnak) sokkal lágyabb, suhogóbb, texturáltabb hangzást tesznek lehetővé.</p>
 <p><strong>A seprűzés előnyei:</strong></p>
 <ul>
@@ -267,8 +267,8 @@
 <li><strong>Folyamatos Hangzás (Sustain):</strong> A pergőn vagy cineken végzett körkörös seprő mozdulatokkal szinte folyamatos hangzást lehet elérni, ami kitölti a teret.</li>
 <li><strong>Kifejezőkészség:</strong> A seprűkkel való játék rendkívül árnyalt és kifejező lehet, ha jól bánunk velük.</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image1-40270133cef12ee8c7fbb461679ff4e6.jpg" width="1280" height="853" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="alapvető-seprű-technikák-kezdőknek">Alapvető Seprű Technikák Kezdőknek<a href="https://your-docusaurus-site.example.com/blog/dobvero-sepru-muveszete-finomsag-textura#alapvet%C5%91-sepr%C5%B1-technik%C3%A1k-kezd%C5%91knek" class="hash-link" aria-label="Közvetlen hivatkozás erre: Alapvető Seprű Technikák Kezdőknek" title="Közvetlen hivatkozás erre: Alapvető Seprű Technikák Kezdőknek">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image1-40270133cef12ee8c7fbb461679ff4e6.jpg" width="1280" height="853" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="alapvető-seprű-technikák-kezdőknek">Alapvető Seprű Technikák Kezdőknek<a href="https://giliandob.github.io/blog/dobvero-sepru-muveszete-finomsag-textura#alapvet%C5%91-sepr%C5%B1-technik%C3%A1k-kezd%C5%91knek" class="hash-link" aria-label="Közvetlen hivatkozás erre: Alapvető Seprű Technikák Kezdőknek" title="Közvetlen hivatkozás erre: Alapvető Seprű Technikák Kezdőknek">​</a></h2>
 <p>Bár a seprűzés mesteri szintű elsajátítása időt és gyakorlást igényel, néhány alaptechnikával már el lehet indulni.</p>
 <ol>
 <li>
@@ -296,7 +296,7 @@
 </ul>
 </li>
 </ol>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="gyakorlási-tippek-a-seprűzéshez">Gyakorlási Tippek a Seprűzéshez<a href="https://your-docusaurus-site.example.com/blog/dobvero-sepru-muveszete-finomsag-textura#gyakorl%C3%A1si-tippek-a-sepr%C5%B1z%C3%A9shez" class="hash-link" aria-label="Közvetlen hivatkozás erre: Gyakorlási Tippek a Seprűzéshez" title="Közvetlen hivatkozás erre: Gyakorlási Tippek a Seprűzéshez">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="gyakorlási-tippek-a-seprűzéshez">Gyakorlási Tippek a Seprűzéshez<a href="https://giliandob.github.io/blog/dobvero-sepru-muveszete-finomsag-textura#gyakorl%C3%A1si-tippek-a-sepr%C5%B1z%C3%A9shez" class="hash-link" aria-label="Közvetlen hivatkozás erre: Gyakorlási Tippek a Seprűzéshez" title="Közvetlen hivatkozás erre: Gyakorlási Tippek a Seprűzéshez">​</a></h2>
 <ul>
 <li><strong>Kezdd a Pergőn:</strong> A seprűtechnikák elsajátítását a pergődobon érdemes kezdeni, mivel itt a legérzékenyebb a bőr.</li>
 <li><strong>Használj Metronómot:</strong> Még a lassú, suhogó mozdulatoknál is fontos a ritmikai pontosság.</li>
@@ -305,7 +305,7 @@
 <li><strong>Kísérletezz a Cintányérokon Is:</strong> A seprűket nemcsak a dobokon, hanem a cintányérokon is lehet használni, különleges, susogó, csilingelő hangokat létrehozva.</li>
 </ul>
 <p><strong>Személyes tanács:</strong> "A seprűvel való játék olyan, mint a festés egy finom ecsettel. Türelmet, érzékenységet és sok hallgatózást igényel. Ne siettesd! Élvezd a folyamatot, ahogy felfedezed a seprűkben rejlő hangzásbeli lehetőségeket. A cél nem a virtuozitás, hanem az, hogy a játékod ízléses, zenei és a dalhoz illeszkedő legyen. Amikor a seprű igazán jól szól, az maga a varázslat – egy olyan hang, ami mélyen megérint."</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-seprű-szerepe-a-különböző-stílusokban">A Seprű Szerepe a Különböző Stílusokban<a href="https://your-docusaurus-site.example.com/blog/dobvero-sepru-muveszete-finomsag-textura#a-sepr%C5%B1-szerepe-a-k%C3%BCl%C3%B6nb%C3%B6z%C5%91-st%C3%ADlusokban" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Seprű Szerepe a Különböző Stílusokban" title="Közvetlen hivatkozás erre: A Seprű Szerepe a Különböző Stílusokban">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-seprű-szerepe-a-különböző-stílusokban">A Seprű Szerepe a Különböző Stílusokban<a href="https://giliandob.github.io/blog/dobvero-sepru-muveszete-finomsag-textura#a-sepr%C5%B1-szerepe-a-k%C3%BCl%C3%B6nb%C3%B6z%C5%91-st%C3%ADlusokban" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Seprű Szerepe a Különböző Stílusokban" title="Közvetlen hivatkozás erre: A Seprű Szerepe a Különböző Stílusokban">​</a></h2>
 <ul>
 <li><strong>Jazz:</strong> Alapvető eszköz, különösen a swing és bebop balladákban, trió felállásokban.</li>
 <li><strong>Blues:</strong> Lassú blues számokban adhat finom, "koszos" textúrát.</li>
@@ -313,7 +313,7 @@
 <li><strong>Country:</strong> Bizonyos country balladákban is előfordul.</li>
 <li><strong>Világzene:</strong> Sokféleképpen alkalmazható, a zene hangulatától függően.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://your-docusaurus-site.example.com/blog/dobvero-sepru-muveszete-finomsag-textura#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://giliandob.github.io/blog/dobvero-sepru-muveszete-finomsag-textura#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
 <p>A seprűvel való játék egy csodálatos készség, ami új színeket és dimenziókat adhat a dobolásodhoz. Bár elsőre talán kihívást jelenthet a finom mozdulatok és hangzások elsajátítása, a befektetett energia sokszorosan megtérül a zenei kifejezőkészséged bővülésében.</p>
 <p>Ha szeretnél mélyebben elmerülni a seprűtechnikák világában, és megtanulni, hogyan alkalmazd őket ízlésesen és hatékonyan, keress bizalommal! Segítek felfedezni ezt a különleges "hangszert a hangszerben"!</p>
 <p>Próbáltad már a seprűvel való játékot? Milyen tapasztalataid vannak?</p>]]></content:encoded>
@@ -328,16 +328,16 @@
         </item>
         <item>
             <title><![CDATA[Elektronikus Dobok Új Dimenziói: Hangminták, Loopolás és Modern Zenei Producálás 💻🎛️]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/elektronikus-dobok-modern-lehetosegek</link>
-            <guid>https://your-docusaurus-site.example.com/blog/elektronikus-dobok-modern-lehetosegek</guid>
+            <link>https://giliandob.github.io/blog/elektronikus-dobok-modern-lehetosegek</link>
+            <guid>https://giliandob.github.io/blog/elektronikus-dobok-modern-lehetosegek</guid>
             <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Sziasztok digitális ritmuskovácsok! Gábor vagyok, és ma az elektronikus dobok világába kalauzollak titeket, de egy kicsit másképp, mint ahogy a legtöbben gondolnak rájuk. Sokan az e-dobokat csak a halk gyakorlás eszközének tekintik, pedig a modern technológia révén ezek a hangszerek elképesztő kreatív lehetőségeket rejtenek magukban, a hangminták használatától kezdve a loopoláson át egészen a komplett zenei produceri munkáig. Fedezzük fel együtt, hogyan léphetünk új dimenziókba az elektronikus dobokkal!]]></description>
             <content:encoded><![CDATA[<p>Sziasztok digitális ritmuskovácsok! Gábor vagyok, és ma az elektronikus dobok világába kalauzollak titeket, de egy kicsit másképp, mint ahogy a legtöbben gondolnak rájuk. Sokan az e-dobokat csak a halk gyakorlás eszközének tekintik, pedig a modern technológia révén ezek a hangszerek elképesztő kreatív lehetőségeket rejtenek magukban, a hangminták használatától kezdve a loopoláson át egészen a komplett zenei produceri munkáig. Fedezzük fel együtt, hogyan léphetünk új dimenziókba az elektronikus dobokkal!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="az-elektronikus-dobok-evolúciója">Az Elektronikus Dobok Evolúciója<a href="https://your-docusaurus-site.example.com/blog/elektronikus-dobok-modern-lehetosegek#az-elektronikus-dobok-evol%C3%BAci%C3%B3ja" class="hash-link" aria-label="Közvetlen hivatkozás erre: Az Elektronikus Dobok Evolúciója" title="Közvetlen hivatkozás erre: Az Elektronikus Dobok Evolúciója">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="az-elektronikus-dobok-evolúciója">Az Elektronikus Dobok Evolúciója<a href="https://giliandob.github.io/blog/elektronikus-dobok-modern-lehetosegek#az-elektronikus-dobok-evol%C3%BAci%C3%B3ja" class="hash-link" aria-label="Közvetlen hivatkozás erre: Az Elektronikus Dobok Evolúciója" title="Közvetlen hivatkozás erre: Az Elektronikus Dobok Evolúciója">​</a></h2>
 <p>Az elektronikus dobok sokat fejlődtek a kezdeti, kissé "műanyag" hangzású és játékérzetű modellek óta. A mai csúcskategóriás e-dobok (különösen a hálóbőrös, mesh head-es változatok) rendkívül realisztikus játékérzetet és dinamikai választ nyújtanak, a hangmoduljaik pedig tele vannak kiváló minőségű, autentikus dobhangokkal és más ütőhangszerekkel.</p>
 <p>De az igazi varázslat ott kezdődik, amikor az e-dobokat összekötjük a számítógéppel és a modern zenei szoftverekkel.</p>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image1-f621368c20ee31a1d978e24138295a7d.jpg" width="6000" height="4000" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hangminták-samples-használata">Hangminták (Samples) Használata<a href="https://your-docusaurus-site.example.com/blog/elektronikus-dobok-modern-lehetosegek#hangmint%C3%A1k-samples-haszn%C3%A1lata" class="hash-link" aria-label="Közvetlen hivatkozás erre: Hangminták (Samples) Használata" title="Közvetlen hivatkozás erre: Hangminták (Samples) Használata">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image1-f621368c20ee31a1d978e24138295a7d.jpg" width="6000" height="4000" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hangminták-samples-használata">Hangminták (Samples) Használata<a href="https://giliandob.github.io/blog/elektronikus-dobok-modern-lehetosegek#hangmint%C3%A1k-samples-haszn%C3%A1lata" class="hash-link" aria-label="Közvetlen hivatkozás erre: Hangminták (Samples) Használata" title="Közvetlen hivatkozás erre: Hangminták (Samples) Használata">​</a></h2>
 <p>A legtöbb e-dob hangmodulja lehetővé teszi saját hangminták betöltését és használatát. Ez azt jelenti, hogy:</p>
 <ul>
 <li><strong>Bármilyen hangot hozzárendelhetsz az ütőfelületekhez:</strong> Lehet ez egy vintage lábdob hangja, egy egzotikus ütőhangszer, egy filmeffekt, vagy akár egy rövid énekminta.</li>
@@ -345,21 +345,21 @@
 <li><strong>Hibrid Szettek Kialakítása:</strong> Kombinálhatod az akusztikus dobjaidat triggerelt elektronikus hangokkal. Például az akusztikus lábdobodra helyezhetsz egy triggert, ami egy mély, sub-basszus hangmintát szólaltat meg az eredeti hang mellett, így "kövérítve" a lábdob hangzását.</li>
 </ul>
 <p><strong>Hol találsz hangmintákat?</strong> Rengeteg ingyenes és fizetős hangminta könyvtár létezik online (pl. Splice, Loopmasters), vagy készíthetsz saját mintákat is.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="loopolás-élőben-és-stúdióban">Loopolás Élőben és Stúdióban<a href="https://your-docusaurus-site.example.com/blog/elektronikus-dobok-modern-lehetosegek#loopol%C3%A1s-%C3%A9l%C5%91ben-%C3%A9s-st%C3%BAdi%C3%B3ban" class="hash-link" aria-label="Közvetlen hivatkozás erre: Loopolás Élőben és Stúdióban" title="Közvetlen hivatkozás erre: Loopolás Élőben és Stúdióban">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="loopolás-élőben-és-stúdióban">Loopolás Élőben és Stúdióban<a href="https://giliandob.github.io/blog/elektronikus-dobok-modern-lehetosegek#loopol%C3%A1s-%C3%A9l%C5%91ben-%C3%A9s-st%C3%BAdi%C3%B3ban" class="hash-link" aria-label="Közvetlen hivatkozás erre: Loopolás Élőben és Stúdióban" title="Közvetlen hivatkozás erre: Loopolás Élőben és Stúdióban">​</a></h2>
 <p>A loopolás (egy rövid zenei frázis ismétlése) a modern zene egyik alapvető technikája. Elektronikus dobokkal és egy looper pedállal vagy szoftverrel:</p>
 <ul>
 <li><strong>Élőben hozhatsz létre komplex ritmikai rétegeket:</strong> Feljátszhatsz egy alap groove-ot, majd erre újabb és újabb szólamokat (pl. egy ütőhangszeres mintát, egy basszus szólamot, ha a modulod tud ilyet) rétegezhetsz, mindezt valós időben.</li>
 <li><strong>Kísérletezhetsz dalötletekkel:</strong> Gyorsan rögzíthetsz és variálhatsz ritmikai ötleteket.</li>
 <li><strong>Egyedül is teljes zenekari hangzást hozhatsz létre.</strong></li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="integráció-daw-szoftverekkel-digital-audio-workstation">Integráció DAW Szoftverekkel (Digital Audio Workstation)<a href="https://your-docusaurus-site.example.com/blog/elektronikus-dobok-modern-lehetosegek#integr%C3%A1ci%C3%B3-daw-szoftverekkel-digital-audio-workstation" class="hash-link" aria-label="Közvetlen hivatkozás erre: Integráció DAW Szoftverekkel (Digital Audio Workstation)" title="Közvetlen hivatkozás erre: Integráció DAW Szoftverekkel (Digital Audio Workstation)">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="integráció-daw-szoftverekkel-digital-audio-workstation">Integráció DAW Szoftverekkel (Digital Audio Workstation)<a href="https://giliandob.github.io/blog/elektronikus-dobok-modern-lehetosegek#integr%C3%A1ci%C3%B3-daw-szoftverekkel-digital-audio-workstation" class="hash-link" aria-label="Közvetlen hivatkozás erre: Integráció DAW Szoftverekkel (Digital Audio Workstation)" title="Közvetlen hivatkozás erre: Integráció DAW Szoftverekkel (Digital Audio Workstation)">​</a></h2>
 <p>Az e-dobok MIDI kimenetén keresztül tökéletesen integrálhatók a népszerű DAW szoftverekkel (pl. Ableton Live, Logic Pro X, Cubase, FL Studio). Ezáltal:</p>
 <ul>
 <li><strong>Virtuális Hangszereket (VST/AU) Vezérelhetsz:</strong> A dobfelszereléseddel megszólaltathatsz csúcskategóriás, szoftveres dobkönyvtárakat (pl. Superior Drummer, Addictive Drums, BFD), amik elképesztően realisztikus és sokoldalú hangzásokat kínálnak.</li>
 <li><strong>MIDI Felvétel és Szerkesztés:</strong> Rögzítheted a játékodat MIDI adatként, amit utólag könnyedén szerkeszthetsz: javíthatod az időzítést (kvantálás), megváltoztathatod a hangokat, dinamikát stb. Ez óriási rugalmasságot ad a zeneszerzésben és a produceri munkában.</li>
 <li><strong>Automatizálás:</strong> Vezérelheted a szoftveres effektek (pl. reverb, delay, filter) paramétereit a játékoddal.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="az-e-dobok-szerepe-a-modern-zenei-producálásban">Az E-Dobok Szerepe a Modern Zenei Producálásban<a href="https://your-docusaurus-site.example.com/blog/elektronikus-dobok-modern-lehetosegek#az-e-dobok-szerepe-a-modern-zenei-produc%C3%A1l%C3%A1sban" class="hash-link" aria-label="Közvetlen hivatkozás erre: Az E-Dobok Szerepe a Modern Zenei Producálásban" title="Közvetlen hivatkozás erre: Az E-Dobok Szerepe a Modern Zenei Producálásban">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="az-e-dobok-szerepe-a-modern-zenei-producálásban">Az E-Dobok Szerepe a Modern Zenei Producálásban<a href="https://giliandob.github.io/blog/elektronikus-dobok-modern-lehetosegek#az-e-dobok-szerepe-a-modern-zenei-produc%C3%A1l%C3%A1sban" class="hash-link" aria-label="Közvetlen hivatkozás erre: Az E-Dobok Szerepe a Modern Zenei Producálásban" title="Közvetlen hivatkozás erre: Az E-Dobok Szerepe a Modern Zenei Producálásban">​</a></h2>
 <p>Az elektronikus dobok ma már nélkülözhetetlen eszközei a modern zenei producereknek, különösen az elektronikus zenében, hip-hopban, popzenében, de egyre inkább a rockban és metálban is.</p>
 <ul>
 <li><strong>Gyors Prototípus Készítés:</strong> Könnyen és gyorsan lehet velük dob sávokat készíteni dalötletekhez.</li>
@@ -367,14 +367,14 @@
 <li><strong>Kreatív Hangmanipuláció:</strong> Az elektronikus jeleket könnyű effektezni, torzítani, átalakítani, teljesen új, egyedi hangzásokat hozva létre.</li>
 </ul>
 <p><strong>Modern szemlélet:</strong> "Bár én magam is az akusztikus dobok szerelmese vagyok, el kell ismerni, hogy az elektronikus hangszerek és a digitális technológia óriási lehetőségeket nyitottak meg a dobosok és zeneszerzők előtt. Fontos, hogy nyitottak legyünk ezekre az új eszközökre, és megtanuljuk őket kreatívan használni. A cél nem az, hogy az e-dobok helyettesítsék az akusztikusakat, hanem hogy kiegészítsék azokat, és új utakat nyissanak a zenei önkifejezésben. Ennek a modern hangzásnak is <strong>szívből kell szólnia</strong>, csak más eszközökkel."</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tippek-az-e-dobok-kreatív-használatához">Tippek az E-Dobok Kreatív Használatához<a href="https://your-docusaurus-site.example.com/blog/elektronikus-dobok-modern-lehetosegek#tippek-az-e-dobok-kreat%C3%ADv-haszn%C3%A1lat%C3%A1hoz" class="hash-link" aria-label="Közvetlen hivatkozás erre: Tippek az E-Dobok Kreatív Használatához" title="Közvetlen hivatkozás erre: Tippek az E-Dobok Kreatív Használatához">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tippek-az-e-dobok-kreatív-használatához">Tippek az E-Dobok Kreatív Használatához<a href="https://giliandob.github.io/blog/elektronikus-dobok-modern-lehetosegek#tippek-az-e-dobok-kreat%C3%ADv-haszn%C3%A1lat%C3%A1hoz" class="hash-link" aria-label="Közvetlen hivatkozás erre: Tippek az E-Dobok Kreatív Használatához" title="Közvetlen hivatkozás erre: Tippek az E-Dobok Kreatív Használatához">​</a></h2>
 <ul>
 <li><strong>Ismerd Meg a Modulodat:</strong> Olvasd el a kézikönyvet! Fedezd fel a beépített hangokat, effekteket, szerkesztési lehetőségeket.</li>
 <li><strong>Kísérletezz a MIDI-vel:</strong> Kösd össze a dobo_dat a számítógéppel, próbálj ki különböző DAW szoftvereket és virtuális dobhangszereket.</li>
 <li><strong>Ne Félj a "Nem Dob" Hangoktól:</strong> Próbálj meg dallam- vagy effektmintákat is hozzárendelni az ütőfelületekhez.</li>
 <li><strong>Tanulj Alapvető Produceri Technikákat:</strong> Ismerkedj meg a keverés, az effektezés alapjaival.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://your-docusaurus-site.example.com/blog/elektronikus-dobok-modern-lehetosegek#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://giliandob.github.io/blog/elektronikus-dobok-modern-lehetosegek#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
 <p>Az elektronikus dobok ma már sokkal többet kínálnak, mint csendes gyakorlási lehetőséget. Egy kis kíváncsisággal és kísérletező kedvvel elképesztő kreatív eszközökké válhatnak a kezedben, amelyekkel új zenei távlatokat nyithatsz meg.</p>]]></content:encoded>
             <category>elektronikus dobok</category>
             <category>modern zene</category>
@@ -388,12 +388,12 @@
         </item>
         <item>
             <title><![CDATA[Dobos Holtpont? Így Lendülj Tovább és Tartsd Fenn a Motivációt! 💪💡]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/dobos-holtpont-motivacio-fejlodes</link>
-            <guid>https://your-docusaurus-site.example.com/blog/dobos-holtpont-motivacio-fejlodes</guid>
+            <link>https://giliandob.github.io/blog/dobos-holtpont-motivacio-fejlodes</link>
+            <guid>https://giliandob.github.io/blog/dobos-holtpont-motivacio-fejlodes</guid>
             <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Sziasztok dobos harcosok! Gábor vagyok, és ma egy olyan témáról beszélünk, amivel előbb-utóbb minden zenész, így minden dobos is szembesül: a holtpontról. Amikor úgy érzed, nem fejlődsz, amikor a gyakorlás nyűggé válik, és a kezdeti lelkesedés alábbhagy. Ne aggódj, ez teljesen normális! A fontos az, hogy felismerd a jeleket, és tudd, hogyan lendülhetsz tovább. Ebben a bejegyzésben tippeket és stratégiákat osztok meg veletek, hogy újra megtaláljátok a motivációt és a dobolás örömét! Mert ennek még a nehéz időkben is szívből kell szólnia!]]></description>
             <content:encoded><![CDATA[<p>Sziasztok dobos harcosok! Gábor vagyok, és ma egy olyan témáról beszélünk, amivel előbb-utóbb minden zenész, így minden dobos is szembesül: a holtpontról. Amikor úgy érzed, nem fejlődsz, amikor a gyakorlás nyűggé válik, és a kezdeti lelkesedés alábbhagy. Ne aggódj, ez teljesen normális! A fontos az, hogy felismerd a jeleket, és tudd, hogyan lendülhetsz tovább. Ebben a bejegyzésben tippeket és stratégiákat osztok meg veletek, hogy újra megtaláljátok a motivációt és a dobolás örömét! Mert ennek még a nehéz időkben is szívből kell szólnia!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mi-az-a-holtpont-és-mik-a-jelei">Mi Az a Holtpont és Mik a Jelei?<a href="https://your-docusaurus-site.example.com/blog/dobos-holtpont-motivacio-fejlodes#mi-az-a-holtpont-%C3%A9s-mik-a-jelei" class="hash-link" aria-label="Közvetlen hivatkozás erre: Mi Az a Holtpont és Mik a Jelei?" title="Közvetlen hivatkozás erre: Mi Az a Holtpont és Mik a Jelei?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mi-az-a-holtpont-és-mik-a-jelei">Mi Az a Holtpont és Mik a Jelei?<a href="https://giliandob.github.io/blog/dobos-holtpont-motivacio-fejlodes#mi-az-a-holtpont-%C3%A9s-mik-a-jelei" class="hash-link" aria-label="Közvetlen hivatkozás erre: Mi Az a Holtpont és Mik a Jelei?" title="Közvetlen hivatkozás erre: Mi Az a Holtpont és Mik a Jelei?">​</a></h2>
 <p>A holtpont (vagy plató) egy olyan időszak a tanulási folyamatban, amikor úgy érezzük, megrekedtünk, nem haladunk előre, hiába gyakorlunk.
 <strong>Jellemző jelei:</strong></p>
 <ul>
@@ -404,8 +404,8 @@
 <li><strong>A "miért csinálom ezt?" kérdés felmerülése.</strong></li>
 </ul>
 <p>Fontos tudni, hogy a holtpontok a tanulás természetes velejárói. Jelzik, hogy valamin változtatni kell a hozzáállásunkban vagy a gyakorlási módszereinkben.</p>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image1-dc3d9b3a5785f51a1b4e87c4f68d87fd.jpg" width="3436" height="4581" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="stratégiák-a-holtpont-átlépésére-és-a-motiváció-fenntartására">Stratégiák a Holtpont Átlépésére és a Motiváció Fenntartására<a href="https://your-docusaurus-site.example.com/blog/dobos-holtpont-motivacio-fejlodes#strat%C3%A9gi%C3%A1k-a-holtpont-%C3%A1tl%C3%A9p%C3%A9s%C3%A9re-%C3%A9s-a-motiv%C3%A1ci%C3%B3-fenntart%C3%A1s%C3%A1ra" class="hash-link" aria-label="Közvetlen hivatkozás erre: Stratégiák a Holtpont Átlépésére és a Motiváció Fenntartására" title="Közvetlen hivatkozás erre: Stratégiák a Holtpont Átlépésére és a Motiváció Fenntartására">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image1-dc3d9b3a5785f51a1b4e87c4f68d87fd.jpg" width="3436" height="4581" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="stratégiák-a-holtpont-átlépésére-és-a-motiváció-fenntartására">Stratégiák a Holtpont Átlépésére és a Motiváció Fenntartására<a href="https://giliandob.github.io/blog/dobos-holtpont-motivacio-fejlodes#strat%C3%A9gi%C3%A1k-a-holtpont-%C3%A1tl%C3%A9p%C3%A9s%C3%A9re-%C3%A9s-a-motiv%C3%A1ci%C3%B3-fenntart%C3%A1s%C3%A1ra" class="hash-link" aria-label="Közvetlen hivatkozás erre: Stratégiák a Holtpont Átlépésére és a Motiváció Fenntartására" title="Közvetlen hivatkozás erre: Stratégiák a Holtpont Átlépésére és a Motiváció Fenntartására">​</a></h2>
 <ol>
 <li>
 <p><strong>Változtass a Rutinodon!</strong></p>
@@ -475,7 +475,7 @@
 </li>
 </ol>
 <p><strong>Mantra a nehéz időkre:</strong> "Amikor úgy érzem, megrekedtem, mindig emlékeztetem magam arra, miért kezdtem el dobolni: a zene szeretete miatt. Ilyenkor visszatérek azokhoz a dalokhoz, azokhoz az érzésekhez, amik először inspiráltak. És nem felejtem el, hogy a dobolás egy utazás, nem egy célállomás. Vannak nehezebb szakaszok, de minden leküzdött akadály erősebbé tesz. A lényeg, hogy a szenvedély, a <strong>szívből jövő</strong> elkötelezettség megmaradjon."</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ne-add-fel">Ne Add Fel!<a href="https://your-docusaurus-site.example.com/blog/dobos-holtpont-motivacio-fejlodes#ne-add-fel" class="hash-link" aria-label="Közvetlen hivatkozás erre: Ne Add Fel!" title="Közvetlen hivatkozás erre: Ne Add Fel!">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ne-add-fel">Ne Add Fel!<a href="https://giliandob.github.io/blog/dobos-holtpont-motivacio-fejlodes#ne-add-fel" class="hash-link" aria-label="Közvetlen hivatkozás erre: Ne Add Fel!" title="Közvetlen hivatkozás erre: Ne Add Fel!">​</a></h2>
 <p>A holtpontok frusztrálóak lehetnek, de ne hagyd, hogy eltántorítsanak a céljaidtól! Tekints rájuk kihívásként, lehetőségként a megújulásra és a fejlődésre. A kitartás és a tudatos hozzáállás meghozza gyümölcsét.</p>
 <p>Ha éppen egy ilyen időszakot élsz át, remélem, ezek a tippek segítenek! És ne feledd, nem vagy egyedül. Keress bátran, ha úgy érzed, szükséged van egy kis extra lökésre!</p>
 <p>Neked milyen bevált módszereid vannak a holtpontok leküzdésére?</p>]]></content:encoded>
@@ -489,12 +489,12 @@
         </item>
         <item>
             <title><![CDATA[Rudimentek Kreatív Alkalmazása: Több Mint Unalmas Gyakorlatok! 🚀]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/rudimentek-kreativ-alkalmazasa-technikak</link>
-            <guid>https://your-docusaurus-site.example.com/blog/rudimentek-kreativ-alkalmazasa-technikak</guid>
+            <link>https://giliandob.github.io/blog/rudimentek-kreativ-alkalmazasa-technikak</link>
+            <guid>https://giliandob.github.io/blog/rudimentek-kreativ-alkalmazasa-technikak</guid>
             <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Sziasztok dob-fanok! Gábor vagyok, és ma egy olyan témát boncolgatunk, ami sokaknak talán az "unalmas, kötelező gyakorlás" kategóriába esik: a rudimenteket. De mi lenne, ha azt mondanám, hogy a rudimentek valójában a dobos kreativitásának titkos fegyverei? Hogy ezek az alapvető kéztechnikák messze túlmutatnak a gyakorlópadon való monoton ismételgetésen, és végtelen lehetőséget rejtenek magukban a groove-ok, fillek és szólók színesítésére? Tartsatok velem, és megmutatom, hogyan kelthetitek életre a rudimenteket!]]></description>
             <content:encoded><![CDATA[<p>Sziasztok dob-fanok! Gábor vagyok, és ma egy olyan témát boncolgatunk, ami sokaknak talán az "unalmas, kötelező gyakorlás" kategóriába esik: a rudimenteket. De mi lenne, ha azt mondanám, hogy a rudimentek valójában a dobos kreativitásának titkos fegyverei? Hogy ezek az alapvető kéztechnikák messze túlmutatnak a gyakorlópadon való monoton ismételgetésen, és végtelen lehetőséget rejtenek magukban a groove-ok, fillek és szólók színesítésére? Tartsatok velem, és megmutatom, hogyan kelthetitek életre a rudimenteket!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mik-azok-a-rudimentek-és-miért-fontosak">Mik Azok a Rudimentek és Miért Fontosak?<a href="https://your-docusaurus-site.example.com/blog/rudimentek-kreativ-alkalmazasa-technikak#mik-azok-a-rudimentek-%C3%A9s-mi%C3%A9rt-fontosak" class="hash-link" aria-label="Közvetlen hivatkozás erre: Mik Azok a Rudimentek és Miért Fontosak?" title="Közvetlen hivatkozás erre: Mik Azok a Rudimentek és Miért Fontosak?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mik-azok-a-rudimentek-és-miért-fontosak">Mik Azok a Rudimentek és Miért Fontosak?<a href="https://giliandob.github.io/blog/rudimentek-kreativ-alkalmazasa-technikak#mik-azok-a-rudimentek-%C3%A9s-mi%C3%A9rt-fontosak" class="hash-link" aria-label="Közvetlen hivatkozás erre: Mik Azok a Rudimentek és Miért Fontosak?" title="Közvetlen hivatkozás erre: Mik Azok a Rudimentek és Miért Fontosak?">​</a></h2>
 <p>A rudimentek a dobolás alapvető építőkövei, standardizált kézmozdulat-sorozatok. Olyanok, mint a dobosok számára az ábécé vagy a skálák a dallamhangszereseknek. A legismertebbek közé tartozik a single stroke roll (egyesütés), double stroke roll (kettesütés), paradiddle, flam, drag, és ezek számos variációja. (Hivatalosan 40 alapvető rudiment létezik, de kezdésnek elég néhány kulcsfontosságút elsajátítani.)</p>
 <p><strong>Miért érdemes velük foglalkozni?</strong></p>
 <ul>
@@ -503,8 +503,8 @@
 <li><strong>Alapot adnak a komplexebb ritmusokhoz és szólókhoz:</strong> Sok híres dobos groove-ja és fillje rudimentek kreatív alkalmazásán alapul.</li>
 <li><strong>Segítenek a zenei ötletek megvalósításában:</strong> Ha egy bizonyos hangzást vagy ritmust szeretnél létrehozni, a rudimentek ismerete eszközöket ad a kezedbe.</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image1-081335cd94e30e2ad0a23ba928df1af7.jpg" width="5184" height="3456" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-rudimentek-unalmán-túl-kreatív-alkalmazás-a-dobfelszerelésen">A Rudimentek Unalmán Túl: Kreatív Alkalmazás a Dobfelszerelésen<a href="https://your-docusaurus-site.example.com/blog/rudimentek-kreativ-alkalmazasa-technikak#a-rudimentek-unalm%C3%A1n-t%C3%BAl-kreat%C3%ADv-alkalmaz%C3%A1s-a-dobfelszerel%C3%A9sen" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Rudimentek Unalmán Túl: Kreatív Alkalmazás a Dobfelszerelésen" title="Közvetlen hivatkozás erre: A Rudimentek Unalmán Túl: Kreatív Alkalmazás a Dobfelszerelésen">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image1-081335cd94e30e2ad0a23ba928df1af7.jpg" width="5184" height="3456" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-rudimentek-unalmán-túl-kreatív-alkalmazás-a-dobfelszerelésen">A Rudimentek Unalmán Túl: Kreatív Alkalmazás a Dobfelszerelésen<a href="https://giliandob.github.io/blog/rudimentek-kreativ-alkalmazasa-technikak#a-rudimentek-unalm%C3%A1n-t%C3%BAl-kreat%C3%ADv-alkalmaz%C3%A1s-a-dobfelszerel%C3%A9sen" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Rudimentek Unalmán Túl: Kreatív Alkalmazás a Dobfelszerelésen" title="Közvetlen hivatkozás erre: A Rudimentek Unalmán Túl: Kreatív Alkalmazás a Dobfelszerelésen">​</a></h2>
 <p>Az igazi varázslat akkor kezdődik, amikor a rudimenteket levisszük a gyakorlópadról, és elkezdjük őket alkalmazni a teljes dobfelszerelésen, zenei kontextusban.</p>
 <ol>
 <li>
@@ -545,9 +545,9 @@
 </li>
 </ol>
 <p><strong>Tippem a kreatív gyakorláshoz:</strong> "Válassz ki egy rudimentet, amit már jól ismersz a gyakorlópadon. Először próbáld meg csak a pergőn játszani, különböző dinamikával és hangsúlyokkal. Majd kezd el 'szétszedni' a kezeid között: az egyik kezed maradjon a pergőn, a másikat vidd át a tamokra vagy a lábcinre. Ezután próbáld meg a lábaidat is bevonni egy egyszerű ostinato-val. Kísérletezz bátran! Nincs rossz megoldás, csak felfedezésre váró lehetőségek. És ne feledd, a rudimenteknek is <strong>szívből kell szólniuk</strong>, nemcsak mechanikusan!"</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="példák-népszerű-dobosoktól">Példák Népszerű Dobosoktól<a href="https://your-docusaurus-site.example.com/blog/rudimentek-kreativ-alkalmazasa-technikak#p%C3%A9ld%C3%A1k-n%C3%A9pszer%C5%B1-dobosokt%C3%B3l" class="hash-link" aria-label="Közvetlen hivatkozás erre: Példák Népszerű Dobosoktól" title="Közvetlen hivatkozás erre: Példák Népszerű Dobosoktól">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="példák-népszerű-dobosoktól">Példák Népszerű Dobosoktól<a href="https://giliandob.github.io/blog/rudimentek-kreativ-alkalmazasa-technikak#p%C3%A9ld%C3%A1k-n%C3%A9pszer%C5%B1-dobosokt%C3%B3l" class="hash-link" aria-label="Közvetlen hivatkozás erre: Példák Népszerű Dobosoktól" title="Közvetlen hivatkozás erre: Példák Népszerű Dobosoktól">​</a></h2>
 <p>Hallgass meg olyan dobosokat, akik híresek a rudimentek kreatív használatáról, mint például Steve Gadd (a "50 Ways to Leave Your Lover" groove-ja egyedi paradiddle-diddle alkalmazás), Vinnie Colaiuta, Dave Weckl, vagy a marching band hagyományokból érkező dobosok. Figyeld meg, hogyan építik be ezeket az alapokat a játékukba!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://your-docusaurus-site.example.com/blog/rudimentek-kreativ-alkalmazasa-technikak#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://giliandob.github.io/blog/rudimentek-kreativ-alkalmazasa-technikak#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
 <p>A rudimentek nem ellenségek, hanem a legjobb barátaink lehetnek a dobolásban, ha megtanuljuk őket kreatívan használni. Tekints rájuk eszközként, amikkel kifejezheted a zenei ötleteidet, és színesítheted a játékodat. Minél többet kísérletezel velük a dobfelszerelésen, annál inkább a sajátoddá válnak, és annál természetesebben fognak beépülni a játékodba.</p>
 <p>Ha szeretnéd mélyebben megismerni a rudimenteket, és megtanulni, hogyan alkalmazd őket különböző zenei stílusokban, keress bizalommal! Segítek felfedezni a bennük rejlő végtelen lehetőségeket!</p>
 <p>Melyik a kedvenc rudimented, és hogyan szoktad használni a dobfelszerelésen?</p>]]></content:encoded>
@@ -561,12 +561,12 @@
         </item>
         <item>
             <title><![CDATA[A Dobos Szerepe a Zenekarban: Hogyan Legyél Te a Ritmus Szíve és Lelke? 🥁❤️バンド]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/dobos-szerepe-zenekarban-egyuttzenes</link>
-            <guid>https://your-docusaurus-site.example.com/blog/dobos-szerepe-zenekarban-egyuttzenes</guid>
+            <link>https://giliandob.github.io/blog/dobos-szerepe-zenekarban-egyuttzenes</link>
+            <guid>https://giliandob.github.io/blog/dobos-szerepe-zenekarban-egyuttzenes</guid>
             <pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Sziasztok zenekari hősök! Gábor vagyok, és ma arról beszélgetünk, hogy mit is jelent valójában dobosnak lenni egy zenekarban. Mert a dobos sokkal több, mint aki csak az ütemet adja a háttérben. Mi vagyunk a zenekar motorja, a ritmusszekció alapja, a lüktetés őrzői. De hogyan tölthetjük be ezt a szerepet a legjobban? Hogyan válhatunk a zene igazi szívévé és lelkévé? Tartsatok velem, és fedezzük fel együtt!]]></description>
             <content:encoded><![CDATA[<p>Sziasztok zenekari hősök! Gábor vagyok, és ma arról beszélgetünk, hogy mit is jelent valójában dobosnak lenni egy zenekarban. Mert a dobos sokkal több, mint aki csak az ütemet adja a háttérben. Mi vagyunk a zenekar motorja, a ritmusszekció alapja, a lüktetés őrzői. De hogyan tölthetjük be ezt a szerepet a legjobban? Hogyan válhatunk a zene igazi szívévé és lelkévé? Tartsatok velem, és fedezzük fel együtt!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-dobos-nem-csak-üt-a-felelősség-súlya">A Dobos Nem Csak Üt: A Felelősség Súlya<a href="https://your-docusaurus-site.example.com/blog/dobos-szerepe-zenekarban-egyuttzenes#a-dobos-nem-csak-%C3%BCt-a-felel%C5%91ss%C3%A9g-s%C3%BAlya" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Dobos Nem Csak Üt: A Felelősség Súlya" title="Közvetlen hivatkozás erre: A Dobos Nem Csak Üt: A Felelősség Súlya">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-dobos-nem-csak-üt-a-felelősség-súlya">A Dobos Nem Csak Üt: A Felelősség Súlya<a href="https://giliandob.github.io/blog/dobos-szerepe-zenekarban-egyuttzenes#a-dobos-nem-csak-%C3%BCt-a-felel%C5%91ss%C3%A9g-s%C3%BAlya" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Dobos Nem Csak Üt: A Felelősség Súlya" title="Közvetlen hivatkozás erre: A Dobos Nem Csak Üt: A Felelősség Súlya">​</a></h2>
 <p>Amikor egy zenekarban játszol, a felelősséged óriási. Te határozod meg a tempót, te adod a groove alapját, és nagyban befolyásolod a dalok energiáját és hangulatát.</p>
 <p><strong>A jó zenekari dobos legfontosabb feladatai:</strong></p>
 <ol>
@@ -577,8 +577,8 @@
 <li><strong>Zenei Kommunikáció és Figyelem:</strong> Folyamatosan figyelned kell a többi zenészre. Hallgasd, mit játszanak, reagálj rájuk, és kommunikálj velük zeneileg (pl. egy szemkontaktus, egy hangsúlyos ütés a fill végén).</li>
 <li><strong>A Zenei Stílus Ismerete:</strong> Minden zenei stílusnak megvannak a maga jellegzetes dob groove-jai, hangzásai. Fontos, hogy ismerd és autentikusan tudd játszani az adott stílust. (Ez különösen igaz a latin zenékre, ahol a ritmikai mintázatoknak nagy hagyománya van!)</li>
 </ol>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image1-4e1e8e26dbc4ef00b00360f7d62e490a.jpg" width="5184" height="3283" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hogyan-lehetsz-jobb-zenekari-dobos">Hogyan Lehetsz Jobb Zenekari Dobos?<a href="https://your-docusaurus-site.example.com/blog/dobos-szerepe-zenekarban-egyuttzenes#hogyan-lehetsz-jobb-zenekari-dobos" class="hash-link" aria-label="Közvetlen hivatkozás erre: Hogyan Lehetsz Jobb Zenekari Dobos?" title="Közvetlen hivatkozás erre: Hogyan Lehetsz Jobb Zenekari Dobos?">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image1-4e1e8e26dbc4ef00b00360f7d62e490a.jpg" width="5184" height="3283" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hogyan-lehetsz-jobb-zenekari-dobos">Hogyan Lehetsz Jobb Zenekari Dobos?<a href="https://giliandob.github.io/blog/dobos-szerepe-zenekarban-egyuttzenes#hogyan-lehetsz-jobb-zenekari-dobos" class="hash-link" aria-label="Közvetlen hivatkozás erre: Hogyan Lehetsz Jobb Zenekari Dobos?" title="Közvetlen hivatkozás erre: Hogyan Lehetsz Jobb Zenekari Dobos?">​</a></h2>
 <ul>
 <li>
 <p><strong>Hallgass, Hallgass, Hallgass!</strong></p>
@@ -626,13 +626,13 @@
 </li>
 </ul>
 <p><strong>Személyes tapasztalat:</strong> "Számtalan zenekarban játszottam már, a legkülönfélébb stílusokban. Azt tanultam, hogy a legjobb zenekarok ott működnek jól, ahol a tagok figyelnek egymásra, és mindenki a közös célért, a zene minőségéért dolgozik. Dobosként az a feladatom, hogy olyan biztos alapot teremtsek, amire a többiek bátran építhetnek, és hogy a játékommal inspiráljam őket. Ennek tényleg <strong>szívből kell szólnia</strong>, és a közös zenélés öröméből."</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-ritmusszekció-a-dobos-és-a-basszusgitáros-különleges-kapcsolata">A Ritmusszekció: A Dobos és a Basszusgitáros Különleges Kapcsolata<a href="https://your-docusaurus-site.example.com/blog/dobos-szerepe-zenekarban-egyuttzenes#a-ritmusszekci%C3%B3-a-dobos-%C3%A9s-a-basszusgit%C3%A1ros-k%C3%BCl%C3%B6nleges-kapcsolata" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Ritmusszekció: A Dobos és a Basszusgitáros Különleges Kapcsolata" title="Közvetlen hivatkozás erre: A Ritmusszekció: A Dobos és a Basszusgitáros Különleges Kapcsolata">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-ritmusszekció-a-dobos-és-a-basszusgitáros-különleges-kapcsolata">A Ritmusszekció: A Dobos és a Basszusgitáros Különleges Kapcsolata<a href="https://giliandob.github.io/blog/dobos-szerepe-zenekarban-egyuttzenes#a-ritmusszekci%C3%B3-a-dobos-%C3%A9s-a-basszusgit%C3%A1ros-k%C3%BCl%C3%B6nleges-kapcsolata" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Ritmusszekció: A Dobos és a Basszusgitáros Különleges Kapcsolata" title="Közvetlen hivatkozás erre: A Ritmusszekció: A Dobos és a Basszusgitáros Különleges Kapcsolata">​</a></h2>
 <p>A dobos és a basszusgitáros kapcsolata a zenekar lelke. Ők ketten alkotják a ritmusszekciót, és az ő összhangjuk határozza meg a groove minőségét.</p>
 <ul>
 <li><strong>"Lock In":</strong> Amikor a dob és a basszus tökéletesen együtt játszik, azt mondjuk, hogy "lock in"-elnek. Ez egy szinte mágikus érzés.</li>
 <li>Figyeljetek egymás hangsúlyaira, szinkópáira. Próbáljatok meg közös ritmikai ötleteket kidolgozni.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://your-docusaurus-site.example.com/blog/dobos-szerepe-zenekarban-egyuttzenes#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://giliandob.github.io/blog/dobos-szerepe-zenekarban-egyuttzenes#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
 <p>Zenekarban játszani az egyik legcsodálatosabb dolog a világon. Felelősséggel jár, de rengeteg örömet és sikerélményt is ad. Légy alázatos, figyelmes, és mindig törekedj arra, hogy a legjobb formádat hozd. Ha így teszel, te lehetsz az a dobos, akivel mindenki szívesen játszik együtt, és aki valóban a zenekar szívévé és lelkévé válik.</p>
 <p>Ha tanácsra van szükséged a zenekari játék fejlesztéséhez, vagy szeretnéd jobban megérteni a különböző stílusok ritmikai alapjait, keress bátran!</p>
 <p>Milyen tapasztalataid vannak a zenekari játékkal kapcsolatban? Mi a legnagyobb kihívás számodra?</p>]]></content:encoded>
@@ -647,12 +647,12 @@
         </item>
         <item>
             <title><![CDATA[Dobfelszerelés Finomhangolása: Érd El Álmaid Hangzását! 🎧🔧]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/dobfelszereles-finomhangolas-sound-design</link>
-            <guid>https://your-docusaurus-site.example.com/blog/dobfelszereles-finomhangolas-sound-design</guid>
+            <link>https://giliandob.github.io/blog/dobfelszereles-finomhangolas-sound-design</link>
+            <guid>https://giliandob.github.io/blog/dobfelszereles-finomhangolas-sound-design</guid>
             <pubDate>Wed, 16 Aug 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Sziasztok hangzásguruk! Gábor vagyok, és ma a dobfelszerelésünk hangjának mélyebb rétegeibe ásunk le. Az alapvető dobhangolásról már volt szó korábban, de mi van akkor, ha ennél többre vágysz? Ha konkrét hangzásokat keresel, ha szeretnéd, hogy a dobjaid úgy szóljanak, mint a kedvenc felvételeiden, vagy ha egyszerűen csak a saját, egyedi hangzásodat akarod kialakítani. Ez a "sound design" a dobokon, és ma erről lesz szó! Ennek a hangnak is szívből kell szólnia – a te szívedből!]]></description>
             <content:encoded><![CDATA[<p>Sziasztok hangzásguruk! Gábor vagyok, és ma a dobfelszerelésünk hangjának mélyebb rétegeibe ásunk le. Az alapvető dobhangolásról már volt szó korábban, de mi van akkor, ha ennél többre vágysz? Ha konkrét hangzásokat keresel, ha szeretnéd, hogy a dobjaid úgy szóljanak, mint a kedvenc felvételeiden, vagy ha egyszerűen csak a saját, egyedi hangzásodat akarod kialakítani. Ez a "sound design" a dobokon, és ma erről lesz szó! Ennek a hangnak is szívből kell szólnia – a te szívedből!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="több-mint-csak-hangolás-a-dobhangzás-összetevői">Több Mint Csak Hangolás: A Dobhangzás Összetevői<a href="https://your-docusaurus-site.example.com/blog/dobfelszereles-finomhangolas-sound-design#t%C3%B6bb-mint-csak-hangol%C3%A1s-a-dobhangz%C3%A1s-%C3%B6sszetev%C5%91i" class="hash-link" aria-label="Közvetlen hivatkozás erre: Több Mint Csak Hangolás: A Dobhangzás Összetevői" title="Közvetlen hivatkozás erre: Több Mint Csak Hangolás: A Dobhangzás Összetevői">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="több-mint-csak-hangolás-a-dobhangzás-összetevői">Több Mint Csak Hangolás: A Dobhangzás Összetevői<a href="https://giliandob.github.io/blog/dobfelszereles-finomhangolas-sound-design#t%C3%B6bb-mint-csak-hangol%C3%A1s-a-dobhangz%C3%A1s-%C3%B6sszetev%C5%91i" class="hash-link" aria-label="Közvetlen hivatkozás erre: Több Mint Csak Hangolás: A Dobhangzás Összetevői" title="Közvetlen hivatkozás erre: Több Mint Csak Hangolás: A Dobhangzás Összetevői">​</a></h2>
 <p>A dobjaid hangzását számos tényező befolyásolja, nemcsak az, hogy milyen feszesre húzod a bőröket. Ezek a legfontosabbak:</p>
 <ol>
 <li>
@@ -697,8 +697,8 @@
 </ul>
 </li>
 </ol>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image1-95ff4af9667683da91084c8ef035b23f.jpg" width="2500" height="2500" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hogyan-találd-meg-a-saját-hangzásodat">Hogyan Találd Meg A Saját Hangzásodat?<a href="https://your-docusaurus-site.example.com/blog/dobfelszereles-finomhangolas-sound-design#hogyan-tal%C3%A1ld-meg-a-saj%C3%A1t-hangz%C3%A1sodat" class="hash-link" aria-label="Közvetlen hivatkozás erre: Hogyan Találd Meg A Saját Hangzásodat?" title="Közvetlen hivatkozás erre: Hogyan Találd Meg A Saját Hangzásodat?">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image1-95ff4af9667683da91084c8ef035b23f.jpg" width="2500" height="2500" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hogyan-találd-meg-a-saját-hangzásodat">Hogyan Találd Meg A Saját Hangzásodat?<a href="https://giliandob.github.io/blog/dobfelszereles-finomhangolas-sound-design#hogyan-tal%C3%A1ld-meg-a-saj%C3%A1t-hangz%C3%A1sodat" class="hash-link" aria-label="Közvetlen hivatkozás erre: Hogyan Találd Meg A Saját Hangzásodat?" title="Közvetlen hivatkozás erre: Hogyan Találd Meg A Saját Hangzásodat?">​</a></h2>
 <ol>
 <li><strong>Határozd Meg, Mit Keresel:</strong> Milyen stílusban játszol leginkább? Milyen dobhangzások tetszenek a kedvenc felvételeiden? Gyűjts referencia hangokat!</li>
 <li><strong>Ismerd Meg A Felszerelésedet:</strong> Kísérletezz a meglévő dobjaiddal és cintányérjaiddal! Próbálj ki különböző hangolásokat, bőr kombinációkat (ha van rá lehetőséged).</li>
@@ -709,7 +709,7 @@
 <li><strong>Mikrofonozás és Stúdiómunka:</strong> Ha felvételeket készítesz, a mikrofonok típusa, elhelyezése és a keverés további lehetőségeket nyit a hangzás formálására. Ez már egy külön tudomány!</li>
 </ol>
 <p><strong>Személyes tippem:</strong> "A tökéletes dobhangzás keresése egy soha véget nem érő kaland, de pont ez a szép benne! Légy kíváncsi, merj kísérletezni, és ne félj eltérni a megszokottól. A legfontosabb, hogy olyan hangzást találj, ami téged inspirál, és amin keresztül a legjobban ki tudod fejezni magad. A 'sound' a te zenei névjegyed!"</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="latin-hangzások-kialakítása">Latin Hangzások Kialakítása<a href="https://your-docusaurus-site.example.com/blog/dobfelszereles-finomhangolas-sound-design#latin-hangz%C3%A1sok-kialak%C3%ADt%C3%A1sa" class="hash-link" aria-label="Közvetlen hivatkozás erre: Latin Hangzások Kialakítása" title="Közvetlen hivatkozás erre: Latin Hangzások Kialakítása">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="latin-hangzások-kialakítása">Latin Hangzások Kialakítása<a href="https://giliandob.github.io/blog/dobfelszereles-finomhangolas-sound-design#latin-hangz%C3%A1sok-kialak%C3%ADt%C3%A1sa" class="hash-link" aria-label="Közvetlen hivatkozás erre: Latin Hangzások Kialakítása" title="Közvetlen hivatkozás erre: Latin Hangzások Kialakítása">​</a></h2>
 <p>Ha kifejezetten latin zenéhez keresel hangzást:</p>
 <ul>
 <li><strong>Tamok:</strong> Nyitottabb, rezonánsabb hangolás, gyakran egyrétegű bőrökkel.</li>
@@ -717,7 +717,7 @@
 <li><strong>Lábdob:</strong> Gyakran kevésbé tompított, hogy a mély rezonanciák érvényesüljenek, de stílusfüggő.</li>
 <li><strong>Cintányérok:</strong> Sötétebb, komplexebb hangú crashek, szárazabb ride-ok, és sok effekt cintányér (splash, china) jól jöhet. A lábcin legyen érzékeny és jól definiált.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://your-docusaurus-site.example.com/blog/dobfelszereles-finomhangolas-sound-design#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://giliandob.github.io/blog/dobfelszereles-finomhangolas-sound-design#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
 <p>A dobfelszerelésed hangzásának finomhangolása egy kreatív folyamat, ami segít mélyebben megérteni a hangszeredet és a zenét. Ne elégedj meg az alapbeállításokkal! Merj belenyúlni, alakítani, formálni, amíg meg nem találod azt a hangot, ami igazán <strong>szívből szól</strong> – a te szívedből.</p>
 <p>Ha segítségre van szükséged a felszerelésed beállításában, vagy tanácsot szeretnél kérni bőrök, cintányérok választásához, keress bátran!</p>
 <p>Milyen dobhangzás inspirál téged a leginkább? Van bevált trükköd a hangoláshoz?</p>]]></content:encoded>
@@ -732,16 +732,16 @@
         </item>
         <item>
             <title><![CDATA[A Brazil Dobolás Varázsa: Samba, Bossa Nova és Társaik Alapjai 🇧🇷🥁]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/brazil-dobolas-samba-bossa-nova-alapok</link>
-            <guid>https://your-docusaurus-site.example.com/blog/brazil-dobolas-samba-bossa-nova-alapok</guid>
+            <link>https://giliandob.github.io/blog/brazil-dobolas-samba-bossa-nova-alapok</link>
+            <guid>https://giliandob.github.io/blog/brazil-dobolas-samba-bossa-nova-alapok</guid>
             <pubDate>Mon, 10 Jul 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Olá Dobosok! Gábor vagyok, és ma egy napsütötte, ritmusokkal teli utazásra hívlak titeket Brazíliába! Ha a latin zene dobban a szívedben, akkor a brazil ritmusok, mint a samba és a bossa nova, biztosan rabul ejtenek. Ezek a stílusok tele vannak élettel, finomsággal és egyedi lüktetéssel, ami teljesen más, mint a kubai vagy más latin-amerikai zenék. Tartsatok velem, és ismerkedjünk meg a brazil dobolás alapjaival, hogy ti is átélhessétek ezt a varázslatot! Ennek igazán szívből kell szólnia!]]></description>
             <content:encoded><![CDATA[<p>Olá Dobosok! Gábor vagyok, és ma egy napsütötte, ritmusokkal teli utazásra hívlak titeket Brazíliába! Ha a latin zene dobban a szívedben, akkor a brazil ritmusok, mint a samba és a bossa nova, biztosan rabul ejtenek. Ezek a stílusok tele vannak élettel, finomsággal és egyedi lüktetéssel, ami teljesen más, mint a kubai vagy más latin-amerikai zenék. Tartsatok velem, és ismerkedjünk meg a brazil dobolás alapjaival, hogy ti is átélhessétek ezt a varázslatot! Ennek igazán szívből kell szólnia!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-brazil-ritmusok-sokszínűsége">A Brazil Ritmusok Sokszínűsége<a href="https://your-docusaurus-site.example.com/blog/brazil-dobolas-samba-bossa-nova-alapok#a-brazil-ritmusok-soksz%C3%ADn%C5%B1s%C3%A9ge" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Brazil Ritmusok Sokszínűsége" title="Közvetlen hivatkozás erre: A Brazil Ritmusok Sokszínűsége">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-brazil-ritmusok-sokszínűsége">A Brazil Ritmusok Sokszínűsége<a href="https://giliandob.github.io/blog/brazil-dobolas-samba-bossa-nova-alapok#a-brazil-ritmusok-soksz%C3%ADn%C5%B1s%C3%A9ge" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Brazil Ritmusok Sokszínűsége" title="Közvetlen hivatkozás erre: A Brazil Ritmusok Sokszínűsége">​</a></h2>
 <p>Brazília egy hatalmas ország, elképesztően gazdag zenei kultúrával. A legismertebb stílusok, mint a samba és a bossa nova mellett számos más, regionális ritmus is létezik (pl. baião, maracatu, frevo). Ami közös bennük, az a komplexitás, a poliritmikus rétegek és az a bizonyos "suingue" (swing, lüktetés), ami annyira jellegzetesen brazil.</p>
 <p>Dobosként a brazil ritmusok elsajátítása izgalmas kihívás, ami új dimenziókat nyithat meg a játékodban.</p>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image1-90187ffa5552f861f4dfa4959779eb08.jpg" width="3830" height="3940" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="samba-az-energia-és-az-ünnep-ritmus">Samba: Az Energia és az Ünnep Ritmus<a href="https://your-docusaurus-site.example.com/blog/brazil-dobolas-samba-bossa-nova-alapok#samba-az-energia-%C3%A9s-az-%C3%BCnnep-ritmus" class="hash-link" aria-label="Közvetlen hivatkozás erre: Samba: Az Energia és az Ünnep Ritmus" title="Közvetlen hivatkozás erre: Samba: Az Energia és az Ünnep Ritmus">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image1-90187ffa5552f861f4dfa4959779eb08.jpg" width="3830" height="3940" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="samba-az-energia-és-az-ünnep-ritmus">Samba: Az Energia és az Ünnep Ritmus<a href="https://giliandob.github.io/blog/brazil-dobolas-samba-bossa-nova-alapok#samba-az-energia-%C3%A9s-az-%C3%BCnnep-ritmus" class="hash-link" aria-label="Közvetlen hivatkozás erre: Samba: Az Energia és az Ünnep Ritmus" title="Közvetlen hivatkozás erre: Samba: Az Energia és az Ünnep Ritmus">​</a></h2>
 <p>A samba a brazil karneválok elmaradhatatlan zenéje, egy erőteljes, energikus, poliritmikus lüktetés, amit általában nagy ütőegyüttesek (bateria) játszanak. De hogyan ültethetjük át ezt a dobfelszerelésre?</p>
 <ol>
 <li>
@@ -767,7 +767,7 @@
 </li>
 </ol>
 <p><strong>Gyakorlási tipp:</strong> Hallgass sok autentikus samba zenét (pl. Escola de Samba felvételeket, vagy olyan előadókat, mint Cartola, Chico Buarque). Próbáld meg külön-külön "leénekelni" a különböző hangszerek szólamait, majd fokozatosan építsd fel őket a dobfelszerelésen.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bossa-nova-az-elegancia-és-a-finomság">Bossa Nova: Az Elegancia és a Finomság<a href="https://your-docusaurus-site.example.com/blog/brazil-dobolas-samba-bossa-nova-alapok#bossa-nova-az-elegancia-%C3%A9s-a-finoms%C3%A1g" class="hash-link" aria-label="Közvetlen hivatkozás erre: Bossa Nova: Az Elegancia és a Finomság" title="Közvetlen hivatkozás erre: Bossa Nova: Az Elegancia és a Finomság">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bossa-nova-az-elegancia-és-a-finomság">Bossa Nova: Az Elegancia és a Finomság<a href="https://giliandob.github.io/blog/brazil-dobolas-samba-bossa-nova-alapok#bossa-nova-az-elegancia-%C3%A9s-a-finoms%C3%A1g" class="hash-link" aria-label="Közvetlen hivatkozás erre: Bossa Nova: Az Elegancia és a Finomság" title="Közvetlen hivatkozás erre: Bossa Nova: Az Elegancia és a Finomság">​</a></h2>
 <p>A bossa nova az 1950-es évek végén alakult ki Rio de Janeiróban, a samba és a cool jazz fúziójaként. Sokkal lágyabb, intimebb, kifinomultabb stílus, mint a samba.</p>
 <ol>
 <li>
@@ -793,15 +793,15 @@
 </li>
 </ol>
 <p><strong>Stílusjegy:</strong> "A bossa nova a 'kevesebb néha több' elvét testesíti meg. Itt nem a hangerő vagy a technikai bravúr a lényeg, hanem a finomság, a pontosság és az a bizonyos laza, elegáns 'groove'. Figyelj a dinamikára, a hangszínekre, és hagyd, hogy a zene lélegezzen. Ennek tényleg szívből, és nagyon érzékenyen kell szólnia."</p>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image2-7c65d1bb1655610aba39bc4a004cd646.jpg" width="4823" height="8574" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="további-brazil-ritmusok-felfedezése">További Brazil Ritmusok Felfedezése<a href="https://your-docusaurus-site.example.com/blog/brazil-dobolas-samba-bossa-nova-alapok#tov%C3%A1bbi-brazil-ritmusok-felfedez%C3%A9se" class="hash-link" aria-label="Közvetlen hivatkozás erre: További Brazil Ritmusok Felfedezése" title="Közvetlen hivatkozás erre: További Brazil Ritmusok Felfedezése">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image2-7c65d1bb1655610aba39bc4a004cd646.jpg" width="4823" height="8574" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="további-brazil-ritmusok-felfedezése">További Brazil Ritmusok Felfedezése<a href="https://giliandob.github.io/blog/brazil-dobolas-samba-bossa-nova-alapok#tov%C3%A1bbi-brazil-ritmusok-felfedez%C3%A9se" class="hash-link" aria-label="Közvetlen hivatkozás erre: További Brazil Ritmusok Felfedezése" title="Közvetlen hivatkozás erre: További Brazil Ritmusok Felfedezése">​</a></h2>
 <p>A samba és a bossa nova csak a jéghegy csúcsa. Érdemes megismerkedni más stílusokkal is, mint például:</p>
 <ul>
 <li><strong>Baião:</strong> Északkelet-Brazília jellegzetes ritmusa, amit a zabumba (egyfajta lapos lábdob) és a triangulum határoz meg.</li>
 <li><strong>Maracatu:</strong> Erőteljes, afrikai gyökerekkel rendelkező ritmus, nagy dobokkal.</li>
 <li><strong>Afoxé, Ijexá:</strong> Vallási eredetű ritmusok, szintén erős afrikai hatásokkal.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://your-docusaurus-site.example.com/blog/brazil-dobolas-samba-bossa-nova-alapok#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://giliandob.github.io/blog/brazil-dobolas-samba-bossa-nova-alapok#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
 <p>A brazil dobolás egy lenyűgöző világ, tele felfedezésre váró ritmusokkal és hangulatokkal. A kulcs a sok zenehallgatás, a türelmes gyakorlás és a nyitottság az új hangzásokra.</p>
 <p>Ha szeretnéd mélyebben elsajátítani ezeket a stílusokat, megérteni a finomságaikat és megtanulni, hogyan alkalmazd őket a saját játékodban, keress bizalommal! Különösen a bossa nova és a samba finomabb árnyalatai azok, amikben személyre szabott tanácsokkal, gyakorlatokkal tudok segíteni, hogy a te játékod is autentikusan brazilos legyen!</p>]]></content:encoded>
             <category>brazil dobolás</category>
@@ -814,12 +814,12 @@
         </item>
         <item>
             <title><![CDATA[Improvizáció a Dobokon: Hogyan Kezdj El Szabadon Játszani és Kreatívnak Lenni? ✨]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/dob-improvizacio-kezdetek-kreativitas</link>
-            <guid>https://your-docusaurus-site.example.com/blog/dob-improvizacio-kezdetek-kreativitas</guid>
+            <link>https://giliandob.github.io/blog/dob-improvizacio-kezdetek-kreativitas</link>
+            <guid>https://giliandob.github.io/blog/dob-improvizacio-kezdetek-kreativitas</guid>
             <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Sziasztok, ritmusmágusok! Gábor vagyok, és ma egy olyan témáról lesz szó, ami sok dobos álmát és egyben félelmét is jelenti: az improvizáció. Az a képesség, hogy a pillanat hevében, spontán módon hozzunk létre zenét, filleket, szólókat – ez a zenei szabadság csúcsa! De hogyan lehet ezt elkezdeni? Tényleg csak a "tehetségesek" kiváltsága? Egyáltalán nem! Megfelelő hozzáállással és gyakorlatokkal bárki megtanulhat improvizálni. Tartsatok velem, és lerántom a leplet az improvizáció alapjairól!]]></description>
             <content:encoded><![CDATA[<p>Sziasztok, ritmusmágusok! Gábor vagyok, és ma egy olyan témáról lesz szó, ami sok dobos álmát és egyben félelmét is jelenti: az improvizáció. Az a képesség, hogy a pillanat hevében, spontán módon hozzunk létre zenét, filleket, szólókat – ez a zenei szabadság csúcsa! De hogyan lehet ezt elkezdeni? Tényleg csak a "tehetségesek" kiváltsága? Egyáltalán nem! Megfelelő hozzáállással és gyakorlatokkal bárki megtanulhat improvizálni. Tartsatok velem, és lerántom a leplet az improvizáció alapjairól!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mi-az-improvizáció-és-miért-fontos">Mi Az Improvizáció és Miért Fontos?<a href="https://your-docusaurus-site.example.com/blog/dob-improvizacio-kezdetek-kreativitas#mi-az-improviz%C3%A1ci%C3%B3-%C3%A9s-mi%C3%A9rt-fontos" class="hash-link" aria-label="Közvetlen hivatkozás erre: Mi Az Improvizáció és Miért Fontos?" title="Közvetlen hivatkozás erre: Mi Az Improvizáció és Miért Fontos?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mi-az-improvizáció-és-miért-fontos">Mi Az Improvizáció és Miért Fontos?<a href="https://giliandob.github.io/blog/dob-improvizacio-kezdetek-kreativitas#mi-az-improviz%C3%A1ci%C3%B3-%C3%A9s-mi%C3%A9rt-fontos" class="hash-link" aria-label="Közvetlen hivatkozás erre: Mi Az Improvizáció és Miért Fontos?" title="Közvetlen hivatkozás erre: Mi Az Improvizáció és Miért Fontos?">​</a></h2>
 <p>Az improvizáció a zenei kompozíció egy spontán formája, ahol a zenész a pillanatnyi inspirációira, zenei tudására és technikai képességeire támaszkodva hoz létre új zenei anyagot. Dobosként ez jelenthet egyedi filleket a dalok között, egy teljes dobszólót, vagy akár egy egész zenekarral való közös, rögtönzött zenélést.</p>
 <p><strong>Miért jó improvizálni?</strong></p>
 <ul>
@@ -830,14 +830,14 @@
 <li><strong>Segít megtalálni a saját hangodat:</strong> Az improvizáció során a saját zenei ötleteid, stílusjegyeid kerülnek előtérbe.</li>
 <li><strong>Mert hihetetlenül szórakoztató!</strong> Ez az a pont, ahol a dobolás igazán <strong>szívből szólhat</strong>, kötöttségek nélkül.</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image1-e520091ff6f41dbd64cc9498daf0ec57.jpg" width="6016" height="3384" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="az-improvizáció-mítoszai">Az Improvizáció Mítoszai<a href="https://your-docusaurus-site.example.com/blog/dob-improvizacio-kezdetek-kreativitas#az-improviz%C3%A1ci%C3%B3-m%C3%ADtoszai" class="hash-link" aria-label="Közvetlen hivatkozás erre: Az Improvizáció Mítoszai" title="Közvetlen hivatkozás erre: Az Improvizáció Mítoszai">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image1-e520091ff6f41dbd64cc9498daf0ec57.jpg" width="6016" height="3384" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="az-improvizáció-mítoszai">Az Improvizáció Mítoszai<a href="https://giliandob.github.io/blog/dob-improvizacio-kezdetek-kreativitas#az-improviz%C3%A1ci%C3%B3-m%C3%ADtoszai" class="hash-link" aria-label="Közvetlen hivatkozás erre: Az Improvizáció Mítoszai" title="Közvetlen hivatkozás erre: Az Improvizáció Mítoszai">​</a></h2>
 <ul>
 <li><strong>"Csak a profik tudnak improvizálni."</strong> TÉVHIT! Az improvizációt el lehet kezdeni nagyon egyszerű szintről is.</li>
 <li><strong>"Ehhez születni kell."</strong> TÉVHIT! Bár van, akinek könnyebben megy, az improvizáció tanulható és fejleszthető készség.</li>
 <li><strong>"Az improvizáció csak össze-vissza püfölés."</strong> TÉVHIT! A jó improvizáció mögött komoly zenei tudás, technika és tudatosság áll. Van szerkezete, logikája.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hogyan-kezdj-el-improvizálni-a-dobokon">Hogyan Kezdj El Improvizálni a Dobokon?<a href="https://your-docusaurus-site.example.com/blog/dob-improvizacio-kezdetek-kreativitas#hogyan-kezdj-el-improviz%C3%A1lni-a-dobokon" class="hash-link" aria-label="Közvetlen hivatkozás erre: Hogyan Kezdj El Improvizálni a Dobokon?" title="Közvetlen hivatkozás erre: Hogyan Kezdj El Improvizálni a Dobokon?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hogyan-kezdj-el-improvizálni-a-dobokon">Hogyan Kezdj El Improvizálni a Dobokon?<a href="https://giliandob.github.io/blog/dob-improvizacio-kezdetek-kreativitas#hogyan-kezdj-el-improviz%C3%A1lni-a-dobokon" class="hash-link" aria-label="Közvetlen hivatkozás erre: Hogyan Kezdj El Improvizálni a Dobokon?" title="Közvetlen hivatkozás erre: Hogyan Kezdj El Improvizálni a Dobokon?">​</a></h2>
 <ol>
 <li>
 <p><strong>Építs Szilárd Alapokat:</strong></p>
@@ -895,9 +895,9 @@
 </li>
 </ol>
 <p><strong>Egy kis bátorítás:</strong> "Az improvizáció olyan, mint a beszéd. Először csak egyszerű szavakat, rövid mondatokat használsz. Idővel, gyakorlással egyre összetettebben, árnyaltabban tudod kifejezni magad. A legfontosabb, hogy merj megszólalni a dobjaidon! Engedd szabadjára a kreativitásodat, és élvezd a felfedezés örömét. Nincs 'rossz' ötlet, csak kísérlet."</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="az-improvizáció-és-a-latin-zene">Az Improvizáció és a Latin Zene<a href="https://your-docusaurus-site.example.com/blog/dob-improvizacio-kezdetek-kreativitas#az-improviz%C3%A1ci%C3%B3-%C3%A9s-a-latin-zene" class="hash-link" aria-label="Közvetlen hivatkozás erre: Az Improvizáció és a Latin Zene" title="Közvetlen hivatkozás erre: Az Improvizáció és a Latin Zene">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="az-improvizáció-és-a-latin-zene">Az Improvizáció és a Latin Zene<a href="https://giliandob.github.io/blog/dob-improvizacio-kezdetek-kreativitas#az-improviz%C3%A1ci%C3%B3-%C3%A9s-a-latin-zene" class="hash-link" aria-label="Közvetlen hivatkozás erre: Az Improvizáció és a Latin Zene" title="Közvetlen hivatkozás erre: Az Improvizáció és a Latin Zene">​</a></h2>
 <p>A latin zenék, különösen a jazz-zel fuzionáló ágaik, rengeteg teret adnak az improvizációnak. A clave és az alapritmusok stabil keretet adnak, amin belül a szólisták (beleértve a dobost is) szabadon szárnyalhatnak. Ha érdekel a latin dobolás, az improvizációs készségek fejlesztése elengedhetetlen lesz.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://your-docusaurus-site.example.com/blog/dob-improvizacio-kezdetek-kreativitas#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://giliandob.github.io/blog/dob-improvizacio-kezdetek-kreativitas#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
 <p>Az improvizáció egy izgalmas és jutalmazó út a dobolásban. Türelemmel, kitartással és a megfelelő hozzáállással te is képessé válhatsz arra, hogy spontán és kreatív módon fejezd ki magad a hangszereden.</p>
 <p>Ha szeretnél személyre szabott útmutatást kapni az improvizáció elkezdéséhez, vagy konkrét technikákat, ötleteket tanulni, keress bizalommal! Együtt felfedezhetjük a benned rejlő zenei világot!</p>
 <p>Neked mi a legnagyobb kihívás az improvizációval kapcsolatban? Vagy van kedvenc improvizatív dobosod?</p>]]></content:encoded>
@@ -911,12 +911,12 @@
         </item>
         <item>
             <title><![CDATA[A 'Szívből Szóló' Dobolás Művészete: Hogyan Fejezd Ki Magad a Ritmusokon Keresztül? ❤️🎶]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/szivbol-szolo-dobolas-onkifejezes-ritmus</link>
-            <guid>https://your-docusaurus-site.example.com/blog/szivbol-szolo-dobolas-onkifejezes-ritmus</guid>
+            <link>https://giliandob.github.io/blog/szivbol-szolo-dobolas-onkifejezes-ritmus</link>
+            <guid>https://giliandob.github.io/blog/szivbol-szolo-dobolas-onkifejezes-ritmus</guid>
             <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Sziasztok, dobos társaim! Gábor vagyok, és ma egy olyan témáról szeretnék beszélni veletek, ami a szívem csücske, és ami a dobtanítási filozófiám alapköve: a "szívből szóló" dobolás. Mert a dobolás sokkal több, mint puszta technika vagy ütemek pontos lejátszása. Ez egy önkifejezési forma, egy nyelv, amin keresztül érzelmeket, történeteket mesélhetünk. De hogyan érhetjük el, hogy a játékunk valóban mélyről jöjjön és megérintse a hallgatót? Tartsatok velem, és fedezzük fel együtt!]]></description>
             <content:encoded><![CDATA[<p>Sziasztok, dobos társaim! Gábor vagyok, és ma egy olyan témáról szeretnék beszélni veletek, ami a szívem csücske, és ami a dobtanítási filozófiám alapköve: a "szívből szóló" dobolás. Mert a dobolás sokkal több, mint puszta technika vagy ütemek pontos lejátszása. Ez egy önkifejezési forma, egy nyelv, amin keresztül érzelmeket, történeteket mesélhetünk. De hogyan érhetjük el, hogy a játékunk valóban mélyről jöjjön és megérintse a hallgatót? Tartsatok velem, és fedezzük fel együtt!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="több-mint-technika-a-zeneiség-esszenciája">Több Mint Technika: A Zeneiség Esszenciája<a href="https://your-docusaurus-site.example.com/blog/szivbol-szolo-dobolas-onkifejezes-ritmus#t%C3%B6bb-mint-technika-a-zeneis%C3%A9g-esszenci%C3%A1ja" class="hash-link" aria-label="Közvetlen hivatkozás erre: Több Mint Technika: A Zeneiség Esszenciája" title="Közvetlen hivatkozás erre: Több Mint Technika: A Zeneiség Esszenciája">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="több-mint-technika-a-zeneiség-esszenciája">Több Mint Technika: A Zeneiség Esszenciája<a href="https://giliandob.github.io/blog/szivbol-szolo-dobolas-onkifejezes-ritmus#t%C3%B6bb-mint-technika-a-zeneis%C3%A9g-esszenci%C3%A1ja" class="hash-link" aria-label="Közvetlen hivatkozás erre: Több Mint Technika: A Zeneiség Esszenciája" title="Közvetlen hivatkozás erre: Több Mint Technika: A Zeneiség Esszenciája">​</a></h2>
 <p>Gyakran látom, hogy a dobosok (különösen a kezdők, de néha még a haladók is) annyira a technikai precizitásra, a sebességre vagy a bonyolult fillekre koncentrálnak, hogy közben elveszítik a lényeget: a zenét magát. Pedig a dobok is hangszer, méghozzá egy rendkívül kifejező hangszer!</p>
 <p>A "szívből szóló" dobolás azt jelenti, hogy:</p>
 <ul>
@@ -926,8 +926,8 @@
 <li><strong>Figyelsz a "feel"-re:</strong> A groove nemcsak a pontosságról szól, hanem arról a bizonyos megfoghatatlan lüktetésről, amitől a zene "él".</li>
 <li><strong>Önmagadat adod:</strong> A saját egyéniségedet, stílusodat viszed bele a játékba, nemcsak másokat másolsz.</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image1-0af3623586968f093d3b7b422566bab2.jpg" width="4717" height="3145" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hogyan-fejlesztheted-a-zenei-kifejezőkészségedet">Hogyan Fejlesztheted a Zenei Kifejezőkészségedet?<a href="https://your-docusaurus-site.example.com/blog/szivbol-szolo-dobolas-onkifejezes-ritmus#hogyan-fejlesztheted-a-zenei-kifejez%C5%91k%C3%A9szs%C3%A9gedet" class="hash-link" aria-label="Közvetlen hivatkozás erre: Hogyan Fejlesztheted a Zenei Kifejezőkészségedet?" title="Közvetlen hivatkozás erre: Hogyan Fejlesztheted a Zenei Kifejezőkészségedet?">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image1-0af3623586968f093d3b7b422566bab2.jpg" width="4717" height="3145" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hogyan-fejlesztheted-a-zenei-kifejezőkészségedet">Hogyan Fejlesztheted a Zenei Kifejezőkészségedet?<a href="https://giliandob.github.io/blog/szivbol-szolo-dobolas-onkifejezes-ritmus#hogyan-fejlesztheted-a-zenei-kifejez%C5%91k%C3%A9szs%C3%A9gedet" class="hash-link" aria-label="Közvetlen hivatkozás erre: Hogyan Fejlesztheted a Zenei Kifejezőkészségedet?" title="Közvetlen hivatkozás erre: Hogyan Fejlesztheted a Zenei Kifejezőkészségedet?">​</a></h2>
 <ol>
 <li>
 <p><strong>Aktív Zenehallgatás:</strong> Ez a legfontosabb! Hallgass rengeteg zenét, mindenféle stílusban. De ne csak háttérzajként! Figyeld meg:</p>
@@ -967,10 +967,10 @@
 </li>
 </ol>
 <p><strong>Személyes megjegyzés:</strong> "Számomra a dobolás mindig is egyfajta érzelmi szelep volt. Amikor játszom, megpróbálom az aktuális érzéseimet, gondolataimat belevinni a zenébe. Néha ez egy erőteljes, energikus kirobbanás, máskor egy finom, érzékeny lüktetés. A technika csak egy eszköz. A valódi cél az, hogy a dobjaimon keresztül kapcsolódjak önmagamhoz és a hallgatókhoz. Ez az, amitől a dobolás igazán <strong>szívből szól</strong>."</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-technika-szolgálja-a-zenét-nem-fordítva">A Technika Szolgálja a Zenét, Nem Fordítva<a href="https://your-docusaurus-site.example.com/blog/szivbol-szolo-dobolas-onkifejezes-ritmus#a-technika-szolg%C3%A1lja-a-zen%C3%A9t-nem-ford%C3%ADtva" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Technika Szolgálja a Zenét, Nem Fordítva" title="Közvetlen hivatkozás erre: A Technika Szolgálja a Zenét, Nem Fordítva">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-technika-szolgálja-a-zenét-nem-fordítva">A Technika Szolgálja a Zenét, Nem Fordítva<a href="https://giliandob.github.io/blog/szivbol-szolo-dobolas-onkifejezes-ritmus#a-technika-szolg%C3%A1lja-a-zen%C3%A9t-nem-ford%C3%ADtva" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Technika Szolgálja a Zenét, Nem Fordítva" title="Közvetlen hivatkozás erre: A Technika Szolgálja a Zenét, Nem Fordítva">​</a></h2>
 <p>Fontos, hogy a technikai tudásunk ne öncélú legyen. A rudimentek, a sebesség, a koordináció mind fontosak, de csak annyiban, amennyiben segítenek jobban kifejezni a zenei elképzeléseinket. Egy virtuóz dobos, aki érzelem nélkül játszik, sokkal kevésbé megérintő, mint egy technikailag egyszerűbben, de szívvel-lélekkel doboló zenész.</p>
 <p>Ne félj egyszerűen játszani, ha a zene azt kívánja! A kevesebb néha több.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://your-docusaurus-site.example.com/blog/szivbol-szolo-dobolas-onkifejezes-ritmus#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="útravaló">Útravaló<a href="https://giliandob.github.io/blog/szivbol-szolo-dobolas-onkifejezes-ritmus#%C3%BAtraval%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Útravaló" title="Közvetlen hivatkozás erre: Útravaló">​</a></h2>
 <p>A "szívből szóló" dobolás egy életen át tartó utazás. Nincs egyetlen helyes út vagy cél. A lényeg a folyamatos felfedezés, a kísérletezés, és az őszinte kapcsolódás a zenéhez és az érzelmeidhez.</p>
 <p>Ha szeretnéd megtanulni, hogyan hozhatod ki magadból a legtöbbet zeneileg, hogyan találhatod meg a saját hangodat a dobokon, keress bizalommal. Segítek felfedezni a benned rejlő muzsikust!</p>
 <p>Te hogyan próbálod kifejezni magad a dobokon? Milyen zenék inspirálnak érzelmileg?</p>]]></content:encoded>
@@ -984,12 +984,12 @@
         </item>
         <item>
             <title><![CDATA[Túl a 4/4-en: Fedezd Fel a Páratlan Ütemmutatók Világát a Dobokon! 🌶️]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/paratlan-utemmutatok-dobokon-felfedezes</link>
-            <guid>https://your-docusaurus-site.example.com/blog/paratlan-utemmutatok-dobokon-felfedezes</guid>
+            <link>https://giliandob.github.io/blog/paratlan-utemmutatok-dobokon-felfedezes</link>
+            <guid>https://giliandob.github.io/blog/paratlan-utemmutatok-dobokon-felfedezes</guid>
             <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Sziasztok dobos barátaim! Gábor vagyok, és ma egy olyan területre kalandozunk, ami sok dobos számára izgalmas kihívást és végtelen kreatív lehetőséget rejt: a páratlan ütemmutatók világa! Ha már magabiztosan mozogsz a jó öreg 4/4-ben, és valami újra, valami formabontóra vágysz, akkor ez a bejegyzés neked szól. Szakítsunk a hagyományokkal, és nézzük meg, hogyan szólalhat meg a zene 5/4-ben, 7/8-ban vagy akár még ennél is cifrább felosztásokban! Ennek is szívből kell szólnia, csak egy kicsit másképp lüktetve!]]></description>
             <content:encoded><![CDATA[<p>Sziasztok dobos barátaim! Gábor vagyok, és ma egy olyan területre kalandozunk, ami sok dobos számára izgalmas kihívást és végtelen kreatív lehetőséget rejt: a páratlan ütemmutatók világa! Ha már magabiztosan mozogsz a jó öreg 4/4-ben, és valami újra, valami formabontóra vágysz, akkor ez a bejegyzés neked szól. Szakítsunk a hagyományokkal, és nézzük meg, hogyan szólalhat meg a zene 5/4-ben, 7/8-ban vagy akár még ennél is cifrább felosztásokban! Ennek is szívből kell szólnia, csak egy kicsit másképp lüktetve!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="miért-izgalmasak-a-páratlan-ütemmutatók">Miért Izgalmasak a Páratlan Ütemmutatók?<a href="https://your-docusaurus-site.example.com/blog/paratlan-utemmutatok-dobokon-felfedezes#mi%C3%A9rt-izgalmasak-a-p%C3%A1ratlan-%C3%BCtemmutat%C3%B3k" class="hash-link" aria-label="Közvetlen hivatkozás erre: Miért Izgalmasak a Páratlan Ütemmutatók?" title="Közvetlen hivatkozás erre: Miért Izgalmasak a Páratlan Ütemmutatók?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="miért-izgalmasak-a-páratlan-ütemmutatók">Miért Izgalmasak a Páratlan Ütemmutatók?<a href="https://giliandob.github.io/blog/paratlan-utemmutatok-dobokon-felfedezes#mi%C3%A9rt-izgalmasak-a-p%C3%A1ratlan-%C3%BCtemmutat%C3%B3k" class="hash-link" aria-label="Közvetlen hivatkozás erre: Miért Izgalmasak a Páratlan Ütemmutatók?" title="Közvetlen hivatkozás erre: Miért Izgalmasak a Páratlan Ütemmutatók?">​</a></h2>
 <p>A legtöbb nyugati populáris zene 4/4-es ütemmutatóban íródik. Ez egy stabil, kiszámítható lüktetést ad, amit könnyű követni és érezni. De mi történik, ha kilépünk ebből a komfortzónából?</p>
 <p>A páratlan ütemmutatók (mint pl. 3/4, 5/4, 7/4, 5/8, 7/8, 9/8 stb.) egyedi, gyakran aszimmetrikus érzetet kölcsönöznek a zenének. Megtörik a megszokott mintákat, feszültséget keltenek, és újfajta groove-ok kialakítására inspirálnak. Gondolj csak a progresszív rock, a jazz bizonyos ágai, vagy a világzene számos stílusára (pl. balkáni, indiai zenék), ahol ezek az ütemmutatók mindennaposak.</p>
 <p>Dobosként a páratlan ütemmutatók elsajátítása:</p>
@@ -999,8 +999,8 @@
 <li><strong>Sokoldalúbbá tesz:</strong> Képessé válsz többféle zenei stílusban helytállni.</li>
 <li><strong>Kihívást jelent:</strong> Ami mindig jó a fejlődéshez!</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image1-1a68a12f643e3be89cca0cda6c69294d.jpg" width="5184" height="3456" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hogyan-közelítsük-meg-a-páratlan-ütemmutatókat">Hogyan Közelítsük Meg a Páratlan Ütemmutatókat?<a href="https://your-docusaurus-site.example.com/blog/paratlan-utemmutatok-dobokon-felfedezes#hogyan-k%C3%B6zel%C3%ADts%C3%BCk-meg-a-p%C3%A1ratlan-%C3%BCtemmutat%C3%B3kat" class="hash-link" aria-label="Közvetlen hivatkozás erre: Hogyan Közelítsük Meg a Páratlan Ütemmutatókat?" title="Közvetlen hivatkozás erre: Hogyan Közelítsük Meg a Páratlan Ütemmutatókat?">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image1-1a68a12f643e3be89cca0cda6c69294d.jpg" width="5184" height="3456" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hogyan-közelítsük-meg-a-páratlan-ütemmutatókat">Hogyan Közelítsük Meg a Páratlan Ütemmutatókat?<a href="https://giliandob.github.io/blog/paratlan-utemmutatok-dobokon-felfedezes#hogyan-k%C3%B6zel%C3%ADts%C3%BCk-meg-a-p%C3%A1ratlan-%C3%BCtemmutat%C3%B3kat" class="hash-link" aria-label="Közvetlen hivatkozás erre: Hogyan Közelítsük Meg a Páratlan Ütemmutatókat?" title="Közvetlen hivatkozás erre: Hogyan Közelítsük Meg a Páratlan Ütemmutatókat?">​</a></h2>
 <ol>
 <li>
 <p><strong>Értsd Meg Az Alapokat:</strong></p>
@@ -1035,7 +1035,7 @@
 </ul>
 </li>
 </ol>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="gyakorlati-tippek-dobosoknak">Gyakorlati Tippek Dobosoknak<a href="https://your-docusaurus-site.example.com/blog/paratlan-utemmutatok-dobokon-felfedezes#gyakorlati-tippek-dobosoknak" class="hash-link" aria-label="Közvetlen hivatkozás erre: Gyakorlati Tippek Dobosoknak" title="Közvetlen hivatkozás erre: Gyakorlati Tippek Dobosoknak">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="gyakorlati-tippek-dobosoknak">Gyakorlati Tippek Dobosoknak<a href="https://giliandob.github.io/blog/paratlan-utemmutatok-dobokon-felfedezes#gyakorlati-tippek-dobosoknak" class="hash-link" aria-label="Közvetlen hivatkozás erre: Gyakorlati Tippek Dobosoknak" title="Közvetlen hivatkozás erre: Gyakorlati Tippek Dobosoknak">​</a></h2>
 <ul>
 <li><strong>Kezdd Egyszerű Groove-okkal:</strong> Ne akarj rögtön bonyolult filleket játszani. Először csak a lábdobbal és pergővel hozz létre egy stabil alapot az új ütemmutatóban. A lábcint játszhatja az alap szubdivíziót (pl. nyolcadokat).</li>
 <li><strong>Változtasd Meg Ismert 4/4-es Groove-okat:</strong> Próbálj meg egy egyszerű 4/4-es rock vagy funk groove-ot átalakítani páratlan ütemmutatóra úgy, hogy hozzáadsz vagy elveszel egy-egy ütést. Ez segít megérteni, hogyan változik a "feel".</li>
@@ -1043,7 +1043,7 @@
 <li><strong>Játssz Másokkal:</strong> Ha van rá lehetőséged, próbálj meg más zenészekkel együtt játszani páratlan ütemmutatókban. Ez fejleszti a közös lüktetés érzését.</li>
 </ul>
 <p><strong>Személyes tanácsom:</strong> "A páratlan ütemmutatók olyanok, mint egy új nyelvjárás. Az elején furcsának tűnhetnek, de minél többet 'beszéled' őket, annál természetesebbé válnak. Ne félj hibázni! A lényeg a kísérletezés és a felfedezés öröme. És ne feledd, a legkomplexebb ritmusnak is van egy belső logikája, egy szíve, amit meg kell találnod ahhoz, hogy igazán jól szóljon."</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="merre-tovább">Merre Tovább?<a href="https://your-docusaurus-site.example.com/blog/paratlan-utemmutatok-dobokon-felfedezes#merre-tov%C3%A1bb" class="hash-link" aria-label="Közvetlen hivatkozás erre: Merre Tovább?" title="Közvetlen hivatkozás erre: Merre Tovább?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="merre-tovább">Merre Tovább?<a href="https://giliandob.github.io/blog/paratlan-utemmutatok-dobokon-felfedezes#merre-tov%C3%A1bb" class="hash-link" aria-label="Közvetlen hivatkozás erre: Merre Tovább?" title="Közvetlen hivatkozás erre: Merre Tovább?">​</a></h2>
 <p>A páratlan ütemmutatók világa hatalmas és tele van lehetőségekkel. Ha elkezdesz vele foglalkozni, új kapuk nyílnak meg a zenei kreativitásod előtt. Lehet, hogy az elején kihívást jelent, de a megszerzett tudás és érzés egy sokkal magabiztosabb és sokoldalúbb dobossá tesz.</p>
 <p>Ha szeretnél mélyebben elmerülni ebben a témában, vagy konkrét gyakorlatokra, dalokra van szükséged, keress bátran! Segítek eligazodni a páratlanok útvesztőjében, hogy a te játékod is új, izgalmas színekkel gazdagodjon!</p>]]></content:encoded>
             <category>páratlan ütemmutatók</category>
@@ -1057,16 +1057,16 @@
         </item>
         <item>
             <title><![CDATA[A Latin Groove Titka: Hogyan Építsd Fel a Poliritmiát a Dobfelszerelésen? 🥁]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/latin-groove-poliritmia-dobfelszerelesen</link>
-            <guid>https://your-docusaurus-site.example.com/blog/latin-groove-poliritmia-dobfelszerelesen</guid>
+            <link>https://giliandob.github.io/blog/latin-groove-poliritmia-dobfelszerelesen</link>
+            <guid>https://giliandob.github.io/blog/latin-groove-poliritmia-dobfelszerelesen</guid>
             <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Sziasztok, ritmusfanatikusok! Gábor vagyok, és ma egy igazán izgalmas témába merülünk el: a poliritmiába, ami a latin zene – és különösen az afro-kubai ritmusok – egyik legmeghatározóbb eleme. Ha már ismerkedtél a clave-val és a salsa alapjaival, itt az ideje egy szinttel feljebb lépni, és megtanulni, hogyan hozhatsz létre komplex, mégis áramló groove-okat a dobcuccodon több ritmikai réteg egyidejű megszólaltatásával. Ennek tényleg szívből kell szólnia, és a poliritmia megértése segít, hogy a játékod igazán lélegezzen!]]></description>
             <content:encoded><![CDATA[<p>Sziasztok, ritmusfanatikusok! Gábor vagyok, és ma egy igazán izgalmas témába merülünk el: a poliritmiába, ami a latin zene – és különösen az afro-kubai ritmusok – egyik legmeghatározóbb eleme. Ha már ismerkedtél a clave-val és a salsa alapjaival, itt az ideje egy szinttel feljebb lépni, és megtanulni, hogyan hozhatsz létre komplex, mégis áramló groove-okat a dobcuccodon több ritmikai réteg egyidejű megszólaltatásával. Ennek tényleg szívből kell szólnia, és a poliritmia megértése segít, hogy a játékod igazán lélegezzen!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mi-is-az-a-poliritmia">Mi is az a Poliritmia?<a href="https://your-docusaurus-site.example.com/blog/latin-groove-poliritmia-dobfelszerelesen#mi-is-az-a-poliritmia" class="hash-link" aria-label="Közvetlen hivatkozás erre: Mi is az a Poliritmia?" title="Közvetlen hivatkozás erre: Mi is az a Poliritmia?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mi-is-az-a-poliritmia">Mi is az a Poliritmia?<a href="https://giliandob.github.io/blog/latin-groove-poliritmia-dobfelszerelesen#mi-is-az-a-poliritmia" class="hash-link" aria-label="Közvetlen hivatkozás erre: Mi is az a Poliritmia?" title="Közvetlen hivatkozás erre: Mi is az a Poliritmia?">​</a></h2>
 <p>Egyszerűen fogalmazva, a poliritmia két vagy több, egymástól független ritmus egyidejű megszólalását jelenti. Gondolj bele: a bal kezed egyfajta mintát játszik, a jobb lábad egy másikat, a jobb kezed pedig egy harmadikat, és mindezek tökéletes összhangban vannak, egy gazdag, texturált zenei szövetet alkotva. A latin zenében ez mindennapos, és ez adja azt a hipnotikus, táncra csábító lüktetést.</p>
 <p>A poliritmia nem arról szól, hogy összezavarjuk a hallgatót, épp ellenkezőleg! A cél egy olyan összetett, mégis stabil groove létrehozása, ahol minden egyes szólamnak megvan a maga helye és szerepe, és ezek együttesen erősítik a zene alaplüktetését, a clave-t.</p>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image1-7c02ac8b9c78d6c2a7be07dd4c557a4e.jpg" width="3456" height="2796" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hogyan-kezdj-hozzá-a-poliritmia-gyakorlásához">Hogyan Kezdj Hozzá a Poliritmia Gyakorlásához?<a href="https://your-docusaurus-site.example.com/blog/latin-groove-poliritmia-dobfelszerelesen#hogyan-kezdj-hozz%C3%A1-a-poliritmia-gyakorl%C3%A1s%C3%A1hoz" class="hash-link" aria-label="Közvetlen hivatkozás erre: Hogyan Kezdj Hozzá a Poliritmia Gyakorlásához?" title="Közvetlen hivatkozás erre: Hogyan Kezdj Hozzá a Poliritmia Gyakorlásához?">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image1-7c02ac8b9c78d6c2a7be07dd4c557a4e.jpg" width="3456" height="2796" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hogyan-kezdj-hozzá-a-poliritmia-gyakorlásához">Hogyan Kezdj Hozzá a Poliritmia Gyakorlásához?<a href="https://giliandob.github.io/blog/latin-groove-poliritmia-dobfelszerelesen#hogyan-kezdj-hozz%C3%A1-a-poliritmia-gyakorl%C3%A1s%C3%A1hoz" class="hash-link" aria-label="Közvetlen hivatkozás erre: Hogyan Kezdj Hozzá a Poliritmia Gyakorlásához?" title="Közvetlen hivatkozás erre: Hogyan Kezdj Hozzá a Poliritmia Gyakorlásához?">​</a></h2>
 <p>A poliritmia elsajátítása türelmet és fokozatos építkezést igényel. Ne akarj mindent egyszerre! Íme néhány lépés, ami segíthet:</p>
 <ol>
 <li>
@@ -1092,7 +1092,7 @@
 </ul>
 </li>
 </ol>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="példa-egy-egyszerű-poliritmikus-gyakorlatra-23-clave-alapon">Példa Egy Egyszerű Poliritmikus Gyakorlatra (2:3 Clave Alapon)<a href="https://your-docusaurus-site.example.com/blog/latin-groove-poliritmia-dobfelszerelesen#p%C3%A9lda-egy-egyszer%C5%B1-poliritmikus-gyakorlatra-23-clave-alapon" class="hash-link" aria-label="Közvetlen hivatkozás erre: Példa Egy Egyszerű Poliritmikus Gyakorlatra (2:3 Clave Alapon)" title="Közvetlen hivatkozás erre: Példa Egy Egyszerű Poliritmikus Gyakorlatra (2:3 Clave Alapon)">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="példa-egy-egyszerű-poliritmikus-gyakorlatra-23-clave-alapon">Példa Egy Egyszerű Poliritmikus Gyakorlatra (2:3 Clave Alapon)<a href="https://giliandob.github.io/blog/latin-groove-poliritmia-dobfelszerelesen#p%C3%A9lda-egy-egyszer%C5%B1-poliritmikus-gyakorlatra-23-clave-alapon" class="hash-link" aria-label="Közvetlen hivatkozás erre: Példa Egy Egyszerű Poliritmikus Gyakorlatra (2:3 Clave Alapon)" title="Közvetlen hivatkozás erre: Példa Egy Egyszerű Poliritmikus Gyakorlatra (2:3 Clave Alapon)">​</a></h2>
 <p>Tegyük fel, hogy a 2:3 Son Clave-t játszod a bal lábaddal a lábcinen (vagy a lábcin pedálján, ha a cintányért a jobb kezeddel használod).</p>
 <ul>
 <li><strong>Bal láb (Lábcin):</strong> 2:3 Son Clave (  <code>x . x . | x . x . | x .</code> ahol <code>x</code> az ütés, <code>.</code> a szünet, nyolcadokban)</li>
@@ -1100,7 +1100,7 @@
 <li><strong>Jobb kéz (Ride cintányér):</strong> Állandó negyedek vagy nyolcadok. Kezdésnek a negyedek is elegendőek a stabilitás érdekében.</li>
 </ul>
 <p><strong>Tippem:</strong> "Vedd fel magad játék közben! Sokszor csak visszahallgatva vesszük észre, hogy melyik szólam csúszkál, vagy hol billen ki az egyensúly. És ne feledd: a poliritmia nem erőltetés kérdése. Lazán, áramlóan kell megszólalnia, mintha a legtermészetesebb dolog lenne a világon. Ehhez idő kell, de a végeredmény kárpótolni fog!"</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-poliritmia-szépsége">A Poliritmia Szépsége<a href="https://your-docusaurus-site.example.com/blog/latin-groove-poliritmia-dobfelszerelesen#a-poliritmia-sz%C3%A9ps%C3%A9ge" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Poliritmia Szépsége" title="Közvetlen hivatkozás erre: A Poliritmia Szépsége">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-poliritmia-szépsége">A Poliritmia Szépsége<a href="https://giliandob.github.io/blog/latin-groove-poliritmia-dobfelszerelesen#a-poliritmia-sz%C3%A9ps%C3%A9ge" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Poliritmia Szépsége" title="Közvetlen hivatkozás erre: A Poliritmia Szépsége">​</a></h2>
 <p>A poliritmia elsajátítása nemcsak a technikai képességeidet fejleszti, hanem a zenei hallásodat és a ritmusérzékedet is egy teljesen új szintre emeli. Képessé válsz arra, hogy mélyebben megértsd és átérezd a latin zene komplexitását és szépségét.</p>
 <p>Ez egy olyan út, ami folyamatos felfedezést kínál. Minél többet foglalkozol vele, annál több apró finomságot, újabb réteget fedezel fel a zenében és a saját játékodban is. És ez az, amitől a dobolás igazán <strong>szívből szóló</strong> kalanddá válik.</p>
 <p>Ha szeretnél személyre szabott segítséget kapni a poliritmia útvesztőiben, vagy konkrét latin stílusok dobjátékát elsajátítani, keress bátran! Együtt felfedezzük a benned rejlő ritmusokat!</p>]]></content:encoded>
@@ -1114,18 +1114,18 @@
         </item>
         <item>
             <title><![CDATA[Salsa Dobolás 101: Cascara és Campana Ritmusok Kezdőknek 🔥🔔]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/salsa-dobolas-cascara-campana-alapok</link>
-            <guid>https://your-docusaurus-site.example.com/blog/salsa-dobolas-cascara-campana-alapok</guid>
+            <link>https://giliandob.github.io/blog/salsa-dobolas-cascara-campana-alapok</link>
+            <guid>https://giliandob.github.io/blog/salsa-dobolas-cascara-campana-alapok</guid>
             <pubDate>Fri, 09 Sep 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Készen állsz, hogy megmozgasd a csípőket a dobok mögül? A salsa tüzes ritmusai a cascara és campana patternekkel kezdődnek. Most lépésről lépésre megmutatom, hogyan játszhatod ezeket az alapvető salsa groove-okat. ¡Vamos a tocar!]]></description>
             <content:encoded><![CDATA[<p>Készen állsz, hogy megmozgasd a csípőket a dobok mögül? A salsa tüzes ritmusai a cascara és campana patternekkel kezdődnek. Most lépésről lépésre megmutatom, hogyan játszhatod ezeket az alapvető salsa groove-okat. ¡Vamos a tocar!</p>
 <p>A salsa zene ellenállhatatlan energiája és lüktetése nagyban köszönhető a jellegzetes ütőhangszeres mintázatoknak. Dobosként ezeknek a ritmusoknak az elsajátítása kulcsfontosságú, ha autentikus salsa hangzást szeretnél elérni. Ebben a bejegyzésben két alapvető salsa patternnel ismerkedünk meg: a <strong>cascarával</strong> és a <strong>campana</strong> (kolomp) ritmussal.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="az-alap-a-clave-szerepe-a-salsában">Az Alap: A Clave Szerepe a Salsában<a href="https://your-docusaurus-site.example.com/blog/salsa-dobolas-cascara-campana-alapok#az-alap-a-clave-szerepe-a-sals%C3%A1ban" class="hash-link" aria-label="Közvetlen hivatkozás erre: Az Alap: A Clave Szerepe a Salsában" title="Közvetlen hivatkozás erre: Az Alap: A Clave Szerepe a Salsában">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="az-alap-a-clave-szerepe-a-salsában">Az Alap: A Clave Szerepe a Salsában<a href="https://giliandob.github.io/blog/salsa-dobolas-cascara-campana-alapok#az-alap-a-clave-szerepe-a-sals%C3%A1ban" class="hash-link" aria-label="Közvetlen hivatkozás erre: Az Alap: A Clave Szerepe a Salsában" title="Közvetlen hivatkozás erre: Az Alap: A Clave Szerepe a Salsában">​</a></h2>
 <p>Mielőtt rátérnénk a cascara és campana ritmusokra, fontos megértenünk, hogy a salsa zenében (ahogy sok más latin stílusban is) a <strong>clave</strong> a legfőbb szervező erő. Leggyakrabban a 2-3 vagy 3-2 <strong>Son Clave</strong> adja a zene vázát, és minden más ritmikai elem ehhez igazodik. A cascara és a campana mintázatok is szorosan kapcsolódnak a clave-hoz, kiegészítik és hangsúlyozzák azt.</p>
 <p><strong>Meglátásom:</strong> "A salsában minden a clave körül forog. Ha érzed a clave-t, a lábaddal tudod játszani, vagy legalábbis belsőleg hallod, akkor a cascara és a campana természetesen fog áramlani a kezeidből. Ezek a patternek nem önálló életet élnek, hanem a clave-val alkotnak egy szerves egységet."</p>
 <p>A kezdő dobosok számára az egyik legnagyobb kihívás nem csupán az egyes mintázatok megtanulása, hanem annak megértése, hogyan viszonyulnak ezek a clave-hoz. Ez a kapcsolati megértés teszi lehetővé, hogy ne csak mechanikusan reprodukáljuk a ritmusokat, hanem valódi, élő salsa groove-okat hozzunk létre, amelyek "szívből szólnak".</p>
 <p>``</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-cascara-pattern-a-salsa-ritmus-motorja">A Cascara Pattern: A Salsa Ritmus Motorja<a href="https://your-docusaurus-site.example.com/blog/salsa-dobolas-cascara-campana-alapok#a-cascara-pattern-a-salsa-ritmus-motorja" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Cascara Pattern: A Salsa Ritmus Motorja" title="Közvetlen hivatkozás erre: A Cascara Pattern: A Salsa Ritmus Motorja">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-cascara-pattern-a-salsa-ritmus-motorja">A Cascara Pattern: A Salsa Ritmus Motorja<a href="https://giliandob.github.io/blog/salsa-dobolas-cascara-campana-alapok#a-cascara-pattern-a-salsa-ritmus-motorja" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Cascara Pattern: A Salsa Ritmus Motorja" title="Közvetlen hivatkozás erre: A Cascara Pattern: A Salsa Ritmus Motorja">​</a></h2>
 <p>A <strong>cascara</strong> (spanyolul "héj") egy olyan ritmikai minta, amit tradicionálisan a timbales dobtestének oldalán, a "héjon" játszanak vékony dobverőkkel, különösen a dal halkabb, verse részeiben. Dobfelszerelésen ezt a pattern-t gyakran a lábcin zárt állapotában, a ride cintányér testén vagy peremén, esetleg a floor tom káváján játsszák.</p>
 <p><strong>Egy alap 2-3 Son Clave-ra épülő Cascara minta dobkottán (egyszerűsítve):</strong>
 (Feltételezve, hogy a clave-t a bal lábaddal játszod a lábcinen, vagy legalábbis számolod.)</p>
@@ -1144,19 +1144,19 @@
         </item>
         <item>
             <title><![CDATA[A Clave Varázsa: A Latin Zene Pulzusának Megértése 💃🎶]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/clave-latin-zene-szivdobbanasa</link>
-            <guid>https://your-docusaurus-site.example.com/blog/clave-latin-zene-szivdobbanasa</guid>
+            <link>https://giliandob.github.io/blog/clave-latin-zene-szivdobbanasa</link>
+            <guid>https://giliandob.github.io/blog/clave-latin-zene-szivdobbanasa</guid>
             <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Hallottad már azt a bizonyos kopogást, ami áthatja a salsa, rumba és más latin zenék lüktetését? Az a clave! Most beavatlak a clave titkaiba. Tarts vele, és fedezd fel, hogyan adhatsz autentikus latin ízt a dobolásodnak! Ennek szívből kell szólnia, és a clave ennek a szívnek az egyik legfontosabb dobbanása.]]></description>
             <content:encoded><![CDATA[<p>Hallottad már azt a bizonyos kopogást, ami áthatja a salsa, rumba és más latin zenék lüktetését? Az a clave! Most beavatlak a clave titkaiba. Tarts vele, és fedezd fel, hogyan adhatsz autentikus latin ízt a dobolásodnak! Ennek szívből kell szólnia, és a clave ennek a szívnek az egyik legfontosabb dobbanása.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mi-is-az-a-clave-több-mint-két-fadarab">Mi is az a Clave? Több Mint Két Fadarab!<a href="https://your-docusaurus-site.example.com/blog/clave-latin-zene-szivdobbanasa#mi-is-az-a-clave-t%C3%B6bb-mint-k%C3%A9t-fadarab" class="hash-link" aria-label="Közvetlen hivatkozás erre: Mi is az a Clave? Több Mint Két Fadarab!" title="Közvetlen hivatkozás erre: Mi is az a Clave? Több Mint Két Fadarab!">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mi-is-az-a-clave-több-mint-két-fadarab">Mi is az a Clave? Több Mint Két Fadarab!<a href="https://giliandob.github.io/blog/clave-latin-zene-szivdobbanasa#mi-is-az-a-clave-t%C3%B6bb-mint-k%C3%A9t-fadarab" class="hash-link" aria-label="Közvetlen hivatkozás erre: Mi is az a Clave? Több Mint Két Fadarab!" title="Közvetlen hivatkozás erre: Mi is az a Clave? Több Mint Két Fadarab!">​</a></h2>
 <p>A "clave" (ejtsd: klávé) szó spanyolul kulcsot jelent, és ez tökéletesen leírja a szerepét a latin zenében. A clave egyszerre utal magára a hangszerre – két rövid, keményfa rúdra, amit összeütnek – és arra az alapvető ritmikai mintázatra, ami az afro-kubai és sok más latin zenei stílus gerincét adja. Úgy tartják, hogy a clave hangszer eredete a havannai dokkokban talált fadarabokra vezethető vissza, amelyeket a munkások ritmuskeltésre használtak.
 <strong>Egy kis betekintés:</strong> "A clave nem csak egy minta; ez a zene lelke, a táncosok iránytűje, és a zenészek közös nyelve a latin zenében. Megértése és érzése nélkülözhetetlen, ha autentikusan szeretnénk játszani ezeket a stílusokat."</p>
 <p>A clave ritmusok jellemzően kétütemes frázisok, amelyek 3-2 vagy 2-3 felosztásban jelennek meg. Ez azt jelenti, hogy az egyik ütemben három, a másikban kettő ütés van (vagy fordítva). Ez a kétütemes szerkezet adja a zene ciklikusságát és feszültség-feloldás dinamikáját. Fontos megkülönböztetni a fizikai hangszert (a két fadarabot) a ritmikai koncepciótól. Míg a clave hangszert gyakran használják, a clave <em>ritmusát</em> számos más hangszeren is lehet játszani, beleértve a teljes dobfelszerelést is. Ez a ritmikai "kulcs" az, ami igazán számít.</p>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image1-a6371cd51220fa60145ed579ebfbbd9b.jpg" width="6000" height="4000" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-legfontosabb-clave-mintázatok-son-rumba-és-bossa-nova">A Legfontosabb Clave Mintázatok: Son, Rumba és Bossa Nova<a href="https://your-docusaurus-site.example.com/blog/clave-latin-zene-szivdobbanasa#a-legfontosabb-clave-mint%C3%A1zatok-son-rumba-%C3%A9s-bossa-nova" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Legfontosabb Clave Mintázatok: Son, Rumba és Bossa Nova" title="Közvetlen hivatkozás erre: A Legfontosabb Clave Mintázatok: Son, Rumba és Bossa Nova">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image1-a6371cd51220fa60145ed579ebfbbd9b.jpg" width="6000" height="4000" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-legfontosabb-clave-mintázatok-son-rumba-és-bossa-nova">A Legfontosabb Clave Mintázatok: Son, Rumba és Bossa Nova<a href="https://giliandob.github.io/blog/clave-latin-zene-szivdobbanasa#a-legfontosabb-clave-mint%C3%A1zatok-son-rumba-%C3%A9s-bossa-nova" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Legfontosabb Clave Mintázatok: Son, Rumba és Bossa Nova" title="Közvetlen hivatkozás erre: A Legfontosabb Clave Mintázatok: Son, Rumba és Bossa Nova">​</a></h2>
 <p>Bár sokféle clave létezik, három alapvető típust mindenképpen érdemes megismerni:</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-son-clave">1. Son Clave<a href="https://your-docusaurus-site.example.com/blog/clave-latin-zene-szivdobbanasa#1-son-clave" class="hash-link" aria-label="Közvetlen hivatkozás erre: 1. Son Clave" title="Közvetlen hivatkozás erre: 1. Son Clave">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-son-clave">1. Son Clave<a href="https://giliandob.github.io/blog/clave-latin-zene-szivdobbanasa#1-son-clave" class="hash-link" aria-label="Közvetlen hivatkozás erre: 1. Son Clave" title="Közvetlen hivatkozás erre: 1. Son Clave">​</a></h3>
 <p>A legismertebb és leggyakrabban használt clave, a kubai Son zene szülötte. Jellegzetessége a "tresillo" nevű ritmikai figura, ami a clave "hármas" oldalán található meg (az első három ütés a 3-2 clave-ban, vagy az utolsó három a 2-3 clave-ban). A tresillo önmagában is egy erőteljes ritmikai elem, ami számos más zenei stílusban is megjelenik, mint például a tangóban vagy a habanerában.</p>
 <ul>
 <li><strong>3-2 Son Clave:</strong> Az első ütemben három, a másodikban kettő ütés.<!-- -->
@@ -1168,14 +1168,14 @@
 <li><strong>2-3 Son Clave:</strong> Fordítottja, az első ütemben kettő, a másodikban három ütés.    *   Számolva (lassan): (egy) <strong>és KÉT</strong> (és) <strong>HÁROM</strong> (és négy és) | <strong>1</strong> (és) <strong>2 és</strong> (há) <strong>és 4</strong> (és)</li>
 </ul>
 <p><strong>Tippem:</strong> "Hallgasd meg a Buena Vista Social Club 'El Cuarto de Tula' című számát! Figyeld meg, hogyan szól folyamatosan a háttérben a son clave, és hogyan épül rá a többi hangszer. " Egy egyszerű gyakorlat a 2-3 son clave érzéséhez: tapsold el a két ütést az első ütemben, majd a hármat a másodikban, miközben a lábaddal egyenletes negyedeket jársz.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-rumba-clave">2. Rumba Clave<a href="https://your-docusaurus-site.example.com/blog/clave-latin-zene-szivdobbanasa#2-rumba-clave" class="hash-link" aria-label="Közvetlen hivatkozás erre: 2. Rumba Clave" title="Közvetlen hivatkozás erre: 2. Rumba Clave">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-rumba-clave">2. Rumba Clave<a href="https://giliandob.github.io/blog/clave-latin-zene-szivdobbanasa#2-rumba-clave" class="hash-link" aria-label="Közvetlen hivatkozás erre: 2. Rumba Clave" title="Közvetlen hivatkozás erre: 2. Rumba Clave">​</a></h3>
 <p>Szintén kubai eredetű, és nagyon hasonlít a son clave-hoz, de van egy fontos különbség: a "hármas" oldalának utolsó ütése egy nyolcadnyival el van tolva (késleltetve) a son clave-hoz képest. Ez az apró eltolódás adja a rumba clave jellegzetes, "lüktetőbb", előre hajtó érzetét. A rumba clave-nak is van 3-2 és 2-3 változata.</p>
 <p><strong>Megjegyzés:</strong> "A rumba clave egy kicsit 'fűszeresebb', táncosabb érzetet ad a zenének. Figyeld meg a különbséget a son és a rumba clave között, amikor autentikus rumba zenét hallgatsz!"</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-bossa-nova-clave">3. Bossa Nova Clave<a href="https://your-docusaurus-site.example.com/blog/clave-latin-zene-szivdobbanasa#3-bossa-nova-clave" class="hash-link" aria-label="Közvetlen hivatkozás erre: 3. Bossa Nova Clave" title="Közvetlen hivatkozás erre: 3. Bossa Nova Clave">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-bossa-nova-clave">3. Bossa Nova Clave<a href="https://giliandob.github.io/blog/clave-latin-zene-szivdobbanasa#3-bossa-nova-clave" class="hash-link" aria-label="Közvetlen hivatkozás erre: 3. Bossa Nova Clave" title="Közvetlen hivatkozás erre: 3. Bossa Nova Clave">​</a></h3>
 <p>A brazil bossa nova clave-ja gyakran sokkal finomabb, néha csak utalásszerűen van jelen, nem pedig expliciten kijátszva, mint a kubai clave-k. Jellemzője egyfajta "ritmikai disszonancia" a zene alaplüktetésével szemben. A 2-3 változatban például az első ütem második negyedétől kezdve minden harmadik nyolcadra esik egy ütés, ami feszültséget kelt az alapvető kettes lüktetéssel szemben. Ezt a clave-t a dobosok gyakran a pergőn (cross-stick technikával) vagy a lábcintányéron játsszák.</p>
 <p><strong>Stílusjegyek:</strong> "A bossa nova clave a kifinomultságról és a 'lebegésről' szól. Nem annyira direkten vezeti a zenét, mint a son vagy rumba clave, inkább egyfajta elegáns ritmikai keretet ad. Ennek a clave-nak a megértése kulcsfontosságú, ha ezt a gyönyörű brazil stílust szeretnéd játszani." A bossa nova clave is létezik 3-2 és 2-3 formában, és bár a son és rumba clave-ból eredeztethető, a felhasználása és a zenei kontextusa másfajta érzékenységet igényel.
 ``</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-clave-érzése-és-belsővé-tétele">A Clave Érzése és Belsővé Tétele<a href="https://your-docusaurus-site.example.com/blog/clave-latin-zene-szivdobbanasa#a-clave-%C3%A9rz%C3%A9se-%C3%A9s-bels%C5%91v%C3%A9-t%C3%A9tele" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Clave Érzése és Belsővé Tétele" title="Közvetlen hivatkozás erre: A Clave Érzése és Belsővé Tétele">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-clave-érzése-és-belsővé-tétele">A Clave Érzése és Belsővé Tétele<a href="https://giliandob.github.io/blog/clave-latin-zene-szivdobbanasa#a-clave-%C3%A9rz%C3%A9se-%C3%A9s-bels%C5%91v%C3%A9-t%C3%A9tele" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Clave Érzése és Belsővé Tétele" title="Közvetlen hivatkozás erre: A Clave Érzése és Belsővé Tétele">​</a></h2>
 <p>A clave mintázatok megtanulása kottából egy dolog, de igazán <strong>érezni</strong> a clave-t, az egy másik szint. Ehhez elengedhetetlen a sok zenehallgatás és a gyakorlati elsajátítás.</p>
 <ul>
 <li><strong>Gyakorlási tippek:</strong>
@@ -1188,8 +1188,8 @@
 </ul>
 <p><strong>Módszerem:</strong> "Amikor a tanítványaimnak a clave-t tanítom, mindig a táncos lüktetésre, a zene természetes áramlására helyezem a hangsúlyt. A clave nem egy matematikai képlet, hanem egy érzés, amit a testeddel és a lelkeddel is meg kell tapasztalnod."</p>
 <p>A clave nem csak az ütősök dolga; egy jó latin zenekarban minden hangszeres érzi és reflektál a clave-ra. Ez teremti meg azt a közös ritmikai alapot, amitől a zene igazán "együtt lélegzik".</p>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image2-07261d059394c4922e98b28cd744f209.jpg" width="3880" height="5820" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="végszó">Végszó<a href="https://your-docusaurus-site.example.com/blog/clave-latin-zene-szivdobbanasa#v%C3%A9gsz%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Végszó" title="Közvetlen hivatkozás erre: Végszó">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image2-07261d059394c4922e98b28cd744f209.jpg" width="3880" height="5820" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="végszó">Végszó<a href="https://giliandob.github.io/blog/clave-latin-zene-szivdobbanasa#v%C3%A9gsz%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Végszó" title="Közvetlen hivatkozás erre: Végszó">​</a></h2>
 <p>A clave megértése és elsajátítása ajtót nyit a latin zene varázslatos és végtelenül gazdag világába. Kezdetben kihívást jelenthet, de a kitartó gyakorlás és a sok zenehallgatás meghozza gyümölcsét. Ha szeretnél mélyebben elmerülni a clave és más latin ritmusok világában, és megtanulni, hogyan alkalmazd őket a dobfelszerelésen modern és autentikus módon, keress bizalommal! Gyere, fedezzük fel együtt a ritmusok ezen lenyűgöző univerzumát!</p>]]></content:encoded>
             <category>clave</category>
             <category>latin ritmusok</category>
@@ -1202,16 +1202,16 @@
         </item>
         <item>
             <title><![CDATA[Top 5 Hiba, Amit Kezdő Dobosként Elkerülhetsz (és Hogyan Javítsd 💡)]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/top-5-hiba-amit-kezdo-doboskent-elkerulhetsz</link>
-            <guid>https://your-docusaurus-site.example.com/blog/top-5-hiba-amit-kezdo-doboskent-elkerulhetsz</guid>
+            <link>https://giliandob.github.io/blog/top-5-hiba-amit-kezdo-doboskent-elkerulhetsz</link>
+            <guid>https://giliandob.github.io/blog/top-5-hiba-amit-kezdo-doboskent-elkerulhetsz</guid>
             <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Minden kezdet nehéz, és ez a dobtanulásra is igaz. Kezdőként természetes, hogy hibázunk, de vannak tipikus buktatók, amiket egy kis odafigyeléssel és tudatossággal elkerülhetsz, vagy legalábbis gyorsabban korrigálhatsz. Bemutatom az 5 leggyakoribb kezdő dobos hibát, és tippeket ad a javításukra, hogy a fejlődésed zökkenőmentesebb és örömtelibb legyen!]]></description>
             <content:encoded><![CDATA[<p>Minden kezdet nehéz, és ez a dobtanulásra is igaz. Kezdőként természetes, hogy hibázunk, de vannak tipikus buktatók, amiket egy kis odafigyeléssel és tudatossággal elkerülhetsz, vagy legalábbis gyorsabban korrigálhatsz. Bemutatom az 5 leggyakoribb kezdő dobos hibát, és tippeket ad a javításukra, hogy a fejlődésed zökkenőmentesebb és örömtelibb legyen!</p>
 <p>A dobolás egy fantasztikus utazás, tele felfedezéssel és sikerélményekkel. Azonban az út elején könnyű beleesni néhány gyakori csapdába, amelyek lelassíthatják a fejlődésedet, vagy akár rossz szokások kialakulásához vezethetnek. Ne aggódj, ezekkel a hibákkal szinte mindenki találkozik! A fontos az, hogy felismerd őket, és tudatosan dolgozz rajta, hogy kijavítsd. Ebben szeretnék most segíteni.</p>
 <p><strong>Alapelvem:</strong> "A hibák a tanulási folyamat természetes részei. Ne ostorozd magad miattuk, inkább tekints rájuk lehetőségként a fejlődésre! A tudatosság és a helyes gyakorlási módszerek segítenek abban, hogy a dobolásod egyre magabiztosabb és <strong>szívből jövőbb</strong> legyen."</p>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image1-78884d0bae35d22a9146270f11c25c47.jpg" width="5760" height="3240" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="az-5-leggyakoribb-kezdő-dobos-hiba-és-megoldásaik">Az 5 Leggyakoribb Kezdő Dobos Hiba és Megoldásaik<a href="https://your-docusaurus-site.example.com/blog/top-5-hiba-amit-kezdo-doboskent-elkerulhetsz#az-5-leggyakoribb-kezd%C5%91-dobos-hiba-%C3%A9s-megold%C3%A1saik" class="hash-link" aria-label="Közvetlen hivatkozás erre: Az 5 Leggyakoribb Kezdő Dobos Hiba és Megoldásaik" title="Közvetlen hivatkozás erre: Az 5 Leggyakoribb Kezdő Dobos Hiba és Megoldásaik">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-hiba-helytelen-dobverő-fogás-és-túlzott-feszültség">1. Hiba: Helytelen Dobverő Fogás és Túlzott Feszültség<a href="https://your-docusaurus-site.example.com/blog/top-5-hiba-amit-kezdo-doboskent-elkerulhetsz#1-hiba-helytelen-dobver%C5%91-fog%C3%A1s-%C3%A9s-t%C3%BAlzott-fesz%C3%BClts%C3%A9g" class="hash-link" aria-label="Közvetlen hivatkozás erre: 1. Hiba: Helytelen Dobverő Fogás és Túlzott Feszültség" title="Közvetlen hivatkozás erre: 1. Hiba: Helytelen Dobverő Fogás és Túlzott Feszültség">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image1-78884d0bae35d22a9146270f11c25c47.jpg" width="5760" height="3240" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="az-5-leggyakoribb-kezdő-dobos-hiba-és-megoldásaik">Az 5 Leggyakoribb Kezdő Dobos Hiba és Megoldásaik<a href="https://giliandob.github.io/blog/top-5-hiba-amit-kezdo-doboskent-elkerulhetsz#az-5-leggyakoribb-kezd%C5%91-dobos-hiba-%C3%A9s-megold%C3%A1saik" class="hash-link" aria-label="Közvetlen hivatkozás erre: Az 5 Leggyakoribb Kezdő Dobos Hiba és Megoldásaik" title="Közvetlen hivatkozás erre: Az 5 Leggyakoribb Kezdő Dobos Hiba és Megoldásaik">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-hiba-helytelen-dobverő-fogás-és-túlzott-feszültség">1. Hiba: Helytelen Dobverő Fogás és Túlzott Feszültség<a href="https://giliandob.github.io/blog/top-5-hiba-amit-kezdo-doboskent-elkerulhetsz#1-hiba-helytelen-dobver%C5%91-fog%C3%A1s-%C3%A9s-t%C3%BAlzott-fesz%C3%BClts%C3%A9g" class="hash-link" aria-label="Közvetlen hivatkozás erre: 1. Hiba: Helytelen Dobverő Fogás és Túlzott Feszültség" title="Közvetlen hivatkozás erre: 1. Hiba: Helytelen Dobverő Fogás és Túlzott Feszültség">​</a></h3>
 <p>Sok kezdő túl erősen, görcsösen szorítja a dobverőt, vagy helytelenül tartja azt. Ez nemcsak a játékot teszi nehézkessé és fárasztóvá, de korlátozza a sebességet, a dinamikát, és hosszú távon sérülésekhez (pl. ínhüvelygyulladás) vezethet.</p>
 <ul>
 <li><strong>Jelei:</strong> Fájó csukló vagy alkar, a verő nem "pattan vissza" a dobbőrről, merev mozgás.</li>
@@ -1224,7 +1224,7 @@
 </ul>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-hiba-helytelen-testtartás-és-rossz-ergonómia">2. Hiba: Helytelen Testtartás és Rossz Ergonómia<a href="https://your-docusaurus-site.example.com/blog/top-5-hiba-amit-kezdo-doboskent-elkerulhetsz#2-hiba-helytelen-testtart%C3%A1s-%C3%A9s-rossz-ergon%C3%B3mia" class="hash-link" aria-label="Közvetlen hivatkozás erre: 2. Hiba: Helytelen Testtartás és Rossz Ergonómia" title="Közvetlen hivatkozás erre: 2. Hiba: Helytelen Testtartás és Rossz Ergonómia">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-hiba-helytelen-testtartás-és-rossz-ergonómia">2. Hiba: Helytelen Testtartás és Rossz Ergonómia<a href="https://giliandob.github.io/blog/top-5-hiba-amit-kezdo-doboskent-elkerulhetsz#2-hiba-helytelen-testtart%C3%A1s-%C3%A9s-rossz-ergon%C3%B3mia" class="hash-link" aria-label="Közvetlen hivatkozás erre: 2. Hiba: Helytelen Testtartás és Rossz Ergonómia" title="Közvetlen hivatkozás erre: 2. Hiba: Helytelen Testtartás és Rossz Ergonómia">​</a></h3>
 <p>Görnyedt hát, felhúzott vállak, rosszul beállított dobszék vagy hangszerelrendezés – ezek mind gyakori problémák, amelyek kényelmetlenséghez, fáradékonysághoz és akár fájdalmakhoz is vezethetnek.</p>
 <ul>
 <li><strong>Jelei:</strong> Hát-, derék- vagy vállfájdalom, nehézkes mozgás a dobok között.</li>
@@ -1237,7 +1237,7 @@
 </ul>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-hiba-a-metronóm-mellőzése">3. Hiba: A Metronóm Mellőzése<a href="https://your-docusaurus-site.example.com/blog/top-5-hiba-amit-kezdo-doboskent-elkerulhetsz#3-hiba-a-metron%C3%B3m-mell%C5%91z%C3%A9se" class="hash-link" aria-label="Közvetlen hivatkozás erre: 3. Hiba: A Metronóm Mellőzése" title="Közvetlen hivatkozás erre: 3. Hiba: A Metronóm Mellőzése">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-hiba-a-metronóm-mellőzése">3. Hiba: A Metronóm Mellőzése<a href="https://giliandob.github.io/blog/top-5-hiba-amit-kezdo-doboskent-elkerulhetsz#3-hiba-a-metron%C3%B3m-mell%C5%91z%C3%A9se" class="hash-link" aria-label="Közvetlen hivatkozás erre: 3. Hiba: A Metronóm Mellőzése" title="Közvetlen hivatkozás erre: 3. Hiba: A Metronóm Mellőzése">​</a></h3>
 <p>Sokan idegenkednek a metronómtól, mert "robotikussá" teszi a játékot, vagy mert kíméletlenül megmutatja a hibákat. Azonban a stabil tempóérzék és a pontosság fejlesztéséhez elengedhetetlen.</p>
 <ul>
 <li><strong>Jelei:</strong> Egyenetlen tempó, a ritmus "úszkál", nehézség a dalokkal való együttjátszásban.</li>
@@ -1250,8 +1250,8 @@
 </ul>
 </li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image2-a9b32e858aad7b97aa6ababe2b7903e2.jpg" width="3264" height="4928" class="img_ev3q"></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-hiba-türelmetlenség-és-túl-gyors-haladási-vágy">4. Hiba: Türelmetlenség és Túl Gyors Haladási Vágy<a href="https://your-docusaurus-site.example.com/blog/top-5-hiba-amit-kezdo-doboskent-elkerulhetsz#4-hiba-t%C3%BCrelmetlens%C3%A9g-%C3%A9s-t%C3%BAl-gyors-halad%C3%A1si-v%C3%A1gy" class="hash-link" aria-label="Közvetlen hivatkozás erre: 4. Hiba: Türelmetlenség és Túl Gyors Haladási Vágy" title="Közvetlen hivatkozás erre: 4. Hiba: Türelmetlenség és Túl Gyors Haladási Vágy">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image2-a9b32e858aad7b97aa6ababe2b7903e2.jpg" width="3264" height="4928" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-hiba-türelmetlenség-és-túl-gyors-haladási-vágy">4. Hiba: Türelmetlenség és Túl Gyors Haladási Vágy<a href="https://giliandob.github.io/blog/top-5-hiba-amit-kezdo-doboskent-elkerulhetsz#4-hiba-t%C3%BCrelmetlens%C3%A9g-%C3%A9s-t%C3%BAl-gyors-halad%C3%A1si-v%C3%A1gy" class="hash-link" aria-label="Közvetlen hivatkozás erre: 4. Hiba: Türelmetlenség és Túl Gyors Haladási Vágy" title="Közvetlen hivatkozás erre: 4. Hiba: Türelmetlenség és Túl Gyors Haladási Vágy">​</a></h3>
 <p>Mindenki szeretne minél hamarabb látványos dolgokat játszani, de a dobolásban (is) a fokozatosság a kulcs. Ha túl gyorsan akarsz haladni, átugrasz fontos alapokat, ami később megbosszulja magát.</p>
 <ul>
 <li><strong>Jelei:</strong> Frusztráció, mert nem sikerülnek a nehezebb dolgok, felületes tudás, rossz beidegződések.</li>
@@ -1264,7 +1264,7 @@
 </ul>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="5-hiba-a-zeneiség-és-a-feel-figyelmen-kívül-hagyása">5. Hiba: A Zeneiség és a "Feel" Figyelmen Kívül Hagyása<a href="https://your-docusaurus-site.example.com/blog/top-5-hiba-amit-kezdo-doboskent-elkerulhetsz#5-hiba-a-zeneis%C3%A9g-%C3%A9s-a-feel-figyelmen-k%C3%ADv%C3%BCl-hagy%C3%A1sa" class="hash-link" aria-label="Közvetlen hivatkozás erre: 5. Hiba: A Zeneiség és a &quot;Feel&quot; Figyelmen Kívül Hagyása" title="Közvetlen hivatkozás erre: 5. Hiba: A Zeneiség és a &quot;Feel&quot; Figyelmen Kívül Hagyása">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="5-hiba-a-zeneiség-és-a-feel-figyelmen-kívül-hagyása">5. Hiba: A Zeneiség és a "Feel" Figyelmen Kívül Hagyása<a href="https://giliandob.github.io/blog/top-5-hiba-amit-kezdo-doboskent-elkerulhetsz#5-hiba-a-zeneis%C3%A9g-%C3%A9s-a-feel-figyelmen-k%C3%ADv%C3%BCl-hagy%C3%A1sa" class="hash-link" aria-label="Közvetlen hivatkozás erre: 5. Hiba: A Zeneiség és a &quot;Feel&quot; Figyelmen Kívül Hagyása" title="Közvetlen hivatkozás erre: 5. Hiba: A Zeneiség és a &quot;Feel&quot; Figyelmen Kívül Hagyása">​</a></h3>
 <p>Néha annyira a technikára vagy a sebességre koncentrálunk, hogy elfelejtjük a legfontosabbat: a zenét magát. A dobolás nem csak ütések sorozata, hanem érzelmek, hangulatok kifejezése, a zene lüktetésének megteremtése.</p>
 <ul>
 <li><strong>Jelei:</strong> Mechanikus, "lélektelen" játék, a groove hiánya, a zene nem "él".</li>
@@ -1276,7 +1276,7 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="végszó">Végszó<a href="https://your-docusaurus-site.example.com/blog/top-5-hiba-amit-kezdo-doboskent-elkerulhetsz#v%C3%A9gsz%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Végszó" title="Közvetlen hivatkozás erre: Végszó">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="végszó">Végszó<a href="https://giliandob.github.io/blog/top-5-hiba-amit-kezdo-doboskent-elkerulhetsz#v%C3%A9gsz%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Végszó" title="Közvetlen hivatkozás erre: Végszó">​</a></h2>
 <p>Kedves Kezdő Dobosok! A hibák elkerülhetetlenek, de a tudatos hozzáállás és a kitartó gyakorlás meghozza gyümölcsét. Ne féljetek segítséget kérni, ha elakadtok! Egy jó tanár, mint én, aki személyre szabott tanácsokkal és modern szemlélettel közelít a dobtanításhoz, sokat segíthet abban, hogy ezeket a kezdeti buktatókat sikeresen átugorjátok, és a dobolás valódi örömforrássá váljon számotokra.</p>
 <p>Ha bármelyik hibában magadra ismertél, ne csüggedj! Ez csupán azt jelenti, hogy van min dolgoznod, és ez a fejlődés útja. Sok sikert és jó dobolást!</p>]]></content:encoded>
             <category>kezdő dobos hibák</category>
@@ -1288,12 +1288,12 @@
         </item>
         <item>
             <title><![CDATA[A Dobhangolás Művészete Kezdőknek: Hozd ki a Legjobbat a Felszerelésedből! 🔧🎵]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/dobhangolas-kezdoknek-alapok</link>
-            <guid>https://your-docusaurus-site.example.com/blog/dobhangolas-kezdoknek-alapok</guid>
+            <link>https://giliandob.github.io/blog/dobhangolas-kezdoknek-alapok</link>
+            <guid>https://giliandob.github.io/blog/dobhangolas-kezdoknek-alapok</guid>
             <pubDate>Mon, 25 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Megvan az első akusztikus dobfelszerelésed, de a hangja nem az igazi? Zörög, puffog, vagy épp túl kongó? A megoldás a helyes dobhangolásban rejlik! Bár elsőre ijesztőnek tűnhet, Lépésről lépésre megmutatom a dobhangolás alapjait, hogy a hangszeredből a lehető legjobb hangzást hozhasd ki, és a játékod valóban szívből szólhasson.]]></description>
             <content:encoded><![CDATA[<p>Megvan az első akusztikus dobfelszerelésed, de a hangja nem az igazi? Zörög, puffog, vagy épp túl kongó? A megoldás a helyes dobhangolásban rejlik! Bár elsőre ijesztőnek tűnhet, Lépésről lépésre megmutatom a dobhangolás alapjait, hogy a hangszeredből a lehető legjobb hangzást hozhasd ki, és a játékod valóban szívből szólhasson.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="miért-fontos-a-dobok-hangolása">Miért Fontos a Dobok Hangolása?<a href="https://your-docusaurus-site.example.com/blog/dobhangolas-kezdoknek-alapok#mi%C3%A9rt-fontos-a-dobok-hangol%C3%A1sa" class="hash-link" aria-label="Közvetlen hivatkozás erre: Miért Fontos a Dobok Hangolása?" title="Közvetlen hivatkozás erre: Miért Fontos a Dobok Hangolása?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="miért-fontos-a-dobok-hangolása">Miért Fontos a Dobok Hangolása?<a href="https://giliandob.github.io/blog/dobhangolas-kezdoknek-alapok#mi%C3%A9rt-fontos-a-dobok-hangol%C3%A1sa" class="hash-link" aria-label="Közvetlen hivatkozás erre: Miért Fontos a Dobok Hangolása?" title="Közvetlen hivatkozás erre: Miért Fontos a Dobok Hangolása?">​</a></h2>
 <p>Sokan gondolják, hogy a doboknak nincs is igazán "hangolható" hangmagasságuk, mint például egy gitárnak vagy zongorának. Ez részben igaz, de a dobbőrök feszességének állításával drámaian megváltoztathatjuk a dobtest hangszínét, rezonanciáját és lecsengését.
 <strong>Egy jól behangolt dobfelszerelés:</strong></p>
 <ul>
@@ -1303,14 +1303,14 @@
 <li><strong>Professzionálisabb megjelenést kölcsönöz:</strong> Egy szépen hangolt szett azt mutatja, hogy komolyan veszed a zenélést.</li>
 </ul>
 <p><strong>Meglátásom:</strong> "A dobhangolás olyan, mint a főzésnél a fűszerezés. Ugyanazokból az alapanyagokból (dobtest, dobbőr) teljesen más ízvilágot (hangzást) hozhatsz ki a megfelelő hangolással. Időt és türelmet igényel, de a végeredmény – egy <strong>szívből szóló</strong>, inspiráló dobhangzás – minden fáradozást megér."</p>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image1-4ce568bc47bb47d88583f81a22aa2012.jpg" width="3918" height="4898" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-hangoláshoz-szükséges-eszközök">A Hangoláshoz Szükséges Eszközök<a href="https://your-docusaurus-site.example.com/blog/dobhangolas-kezdoknek-alapok#a-hangol%C3%A1shoz-sz%C3%BCks%C3%A9ges-eszk%C3%B6z%C3%B6k" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Hangoláshoz Szükséges Eszközök" title="Közvetlen hivatkozás erre: A Hangoláshoz Szükséges Eszközök">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image1-4ce568bc47bb47d88583f81a22aa2012.jpg" width="3918" height="4898" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-hangoláshoz-szükséges-eszközök">A Hangoláshoz Szükséges Eszközök<a href="https://giliandob.github.io/blog/dobhangolas-kezdoknek-alapok#a-hangol%C3%A1shoz-sz%C3%BCks%C3%A9ges-eszk%C3%B6z%C3%B6k" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Hangoláshoz Szükséges Eszközök" title="Közvetlen hivatkozás erre: A Hangoláshoz Szükséges Eszközök">​</a></h2>
 <p>A legfontosabb eszközöd a <strong>hangolókulcs (drum key)</strong>. Ez egy kis fémkulcs, amivel a dobbőr szélén található feszítőcsavarokat (tension rods) tudod állítani. Ezen kívül hasznos lehet:</p>
 <ul>
 <li>Egy puha rongy a dob tisztításához.</li>
 <li>Esetleg egy dobszőnyeg, hogy a dob ne csúszkáljon hangolás közben.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-hangolás-alapvető-lépései-kezdőknek">A Hangolás Alapvető Lépései Kezdőknek<a href="https://your-docusaurus-site.example.com/blog/dobhangolas-kezdoknek-alapok#a-hangol%C3%A1s-alapvet%C5%91-l%C3%A9p%C3%A9sei-kezd%C5%91knek" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Hangolás Alapvető Lépései Kezdőknek" title="Közvetlen hivatkozás erre: A Hangolás Alapvető Lépései Kezdőknek">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-hangolás-alapvető-lépései-kezdőknek">A Hangolás Alapvető Lépései Kezdőknek<a href="https://giliandob.github.io/blog/dobhangolas-kezdoknek-alapok#a-hangol%C3%A1s-alapvet%C5%91-l%C3%A9p%C3%A9sei-kezd%C5%91knek" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Hangolás Alapvető Lépései Kezdőknek" title="Közvetlen hivatkozás erre: A Hangolás Alapvető Lépései Kezdőknek">​</a></h2>
 <p>A dobhangolásnak sokféle iskolája van, de kezdőként az alábbi alapelvekkel érdemes elindulni. Koncentráljunk most egy tam vagy a pergő hangolására.</p>
 <ol>
 <li>
@@ -1353,13 +1353,13 @@
 </li>
 </ol>
 <p><strong>Gyakorlati tanács:</strong> "A dobhangolás türelemjáték. Ne siess! Hallgatózz, kísérletezz apró állításokkal. Hasznos lehet, ha egy már jól szóló, általad kedvelt felvételen figyeled meg a dobok hangzását, és megpróbálod ahhoz közelíteni a sajátodat. De a legfontosabb, hogy olyan hangzást találj, ami neked tetszik és inspirál!"</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="néhány-további-tipp-kezdőknek">Néhány További Tipp Kezdőknek<a href="https://your-docusaurus-site.example.com/blog/dobhangolas-kezdoknek-alapok#n%C3%A9h%C3%A1ny-tov%C3%A1bbi-tipp-kezd%C5%91knek" class="hash-link" aria-label="Közvetlen hivatkozás erre: Néhány További Tipp Kezdőknek" title="Közvetlen hivatkozás erre: Néhány További Tipp Kezdőknek">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="néhány-további-tipp-kezdőknek">Néhány További Tipp Kezdőknek<a href="https://giliandob.github.io/blog/dobhangolas-kezdoknek-alapok#n%C3%A9h%C3%A1ny-tov%C3%A1bbi-tipp-kezd%C5%91knek" class="hash-link" aria-label="Közvetlen hivatkozás erre: Néhány További Tipp Kezdőknek" title="Közvetlen hivatkozás erre: Néhány További Tipp Kezdőknek">​</a></h2>
 <ul>
 <li><strong>Dobdamperek (Muffling):</strong> Ha a dobod túl kongó vagy sok a nemkívánatos felhang, használhatsz dob dampereket (pl. gélpárnák, hangfogó gyűrűk) a rezonancia csökkentésére. De óvatosan, ne "öld meg" teljesen a dob hangját!</li>
 <li><strong>A Dobok Egymáshoz Hangolása:</strong> Figyelj arra, hogy a dobfelszerelésed különböző darabjai (tamok, pergő, lábdob) harmonikusan szóljanak együtt. Általában a tamokat egymástól terc vagy kvart távolságra szokás hangolni.</li>
 <li><strong>Ne Félj Kísérletezni!</strong> Nincs egyetlen "helyes" dobhangolás. Ami az egyik stílusban vagy dalban jól szól, az a másikban nem biztos. Merj eltérni a megszokottól, és találd meg a saját hangzásodat! Ez a modern dobolás egyik szépsége, ahol a hagyományos kereteket bátran átléphetjük.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="végszó">Végszó<a href="https://your-docusaurus-site.example.com/blog/dobhangolas-kezdoknek-alapok#v%C3%A9gsz%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Végszó" title="Közvetlen hivatkozás erre: Végszó">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="végszó">Végszó<a href="https://giliandob.github.io/blog/dobhangolas-kezdoknek-alapok#v%C3%A9gsz%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Végszó" title="Közvetlen hivatkozás erre: Végszó">​</a></h2>
 <p>A dobhangolás egy olyan készség, ami a gyakorlattal fejlődik. Az elején lehet, hogy kicsit macerásnak tűnik, de minél többet csinálod, annál jobban fogod érteni és érezni, hogyan reagál a hangszered a legkisebb változtatásokra is. Egy jól behangolt dobfelszerelés pedig meghálálja a törődést: inspirálóbbá teszi a gyakorlást, és segít abban, hogy a játékod valóban <strong>szívből szóljon</strong>.</p>
 <p>Ha elakadtál, vagy szeretnél mélyebben elmerülni a dobhangolás rejtelmeiben, keress bátran! Személyre szabott tanácsokkal segítek, hogy a te dobfelszerelésed is a lehető legjobban szóljon.</p>]]></content:encoded>
             <category>dobhangolás</category>
@@ -1372,14 +1372,14 @@
         </item>
         <item>
             <title><![CDATA[Kezdő Dobosok Gyakori Kérdései – Gábor Válaszol! 🙋‍♂️🥁]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/kezdo-dobosok-gyakori-kerdesei-gabor-valaszol</link>
-            <guid>https://your-docusaurus-site.example.com/blog/kezdo-dobosok-gyakori-kerdesei-gabor-valaszol</guid>
+            <link>https://giliandob.github.io/blog/kezdo-dobosok-gyakori-kerdesei-gabor-valaszol</link>
+            <guid>https://giliandob.github.io/blog/kezdo-dobosok-gyakori-kerdesei-gabor-valaszol</guid>
             <pubDate>Fri, 06 Nov 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Amikor valaki belevág a dobolásba, rengeteg kérdés merülhet fel benne. Milyen dobot vegyek? Hogyan kezdjek el gyakorolni? Mennyi idő alatt lehet megtanulni? Összegyűjtöttem a leggyakoribb kérdéseket, és megpróbálok érthető, gyakorlatias válaszokat adni rájuk, hogy magabiztosabban indulhass el ezen az izgalmas úton!]]></description>
             <content:encoded><![CDATA[<p>Amikor valaki belevág a dobolásba, rengeteg kérdés merülhet fel benne. Milyen dobot vegyek? Hogyan kezdjek el gyakorolni? Mennyi idő alatt lehet megtanulni? Összegyűjtöttem a leggyakoribb kérdéseket, és megpróbálok érthető, gyakorlatias válaszokat adni rájuk, hogy magabiztosabban indulhass el ezen az izgalmas úton!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kezdő-dobosok-kérdeznek-gábor-válaszol">Kezdő Dobosok Kérdeznek, Gábor Válaszol!<a href="https://your-docusaurus-site.example.com/blog/kezdo-dobosok-gyakori-kerdesei-gabor-valaszol#kezd%C5%91-dobosok-k%C3%A9rdeznek-g%C3%A1bor-v%C3%A1laszol" class="hash-link" aria-label="Közvetlen hivatkozás erre: Kezdő Dobosok Kérdeznek, Gábor Válaszol!" title="Közvetlen hivatkozás erre: Kezdő Dobosok Kérdeznek, Gábor Válaszol!">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kezdő-dobosok-kérdeznek-gábor-válaszol">Kezdő Dobosok Kérdeznek, Gábor Válaszol!<a href="https://giliandob.github.io/blog/kezdo-dobosok-gyakori-kerdesei-gabor-valaszol#kezd%C5%91-dobosok-k%C3%A9rdeznek-g%C3%A1bor-v%C3%A1laszol" class="hash-link" aria-label="Közvetlen hivatkozás erre: Kezdő Dobosok Kérdeznek, Gábor Válaszol!" title="Közvetlen hivatkozás erre: Kezdő Dobosok Kérdeznek, Gábor Válaszol!">​</a></h2>
 <p>A dobtanulás egy fantasztikus kaland, de az elején természetes, ha sok a bizonytalanság. Az alábbiakban a leggyakrabban feltett kérdésekre igyekszem választ adni, remélve, hogy ezzel is segíthetek eligazodni.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="felszereléssel-kapcsolatos-kérdések">Felszereléssel Kapcsolatos Kérdések<a href="https://your-docusaurus-site.example.com/blog/kezdo-dobosok-gyakori-kerdesei-gabor-valaszol#felszerel%C3%A9ssel-kapcsolatos-k%C3%A9rd%C3%A9sek" class="hash-link" aria-label="Közvetlen hivatkozás erre: Felszereléssel Kapcsolatos Kérdések" title="Közvetlen hivatkozás erre: Felszereléssel Kapcsolatos Kérdések">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="felszereléssel-kapcsolatos-kérdések">Felszereléssel Kapcsolatos Kérdések<a href="https://giliandob.github.io/blog/kezdo-dobosok-gyakori-kerdesei-gabor-valaszol#felszerel%C3%A9ssel-kapcsolatos-k%C3%A9rd%C3%A9sek" class="hash-link" aria-label="Közvetlen hivatkozás erre: Felszereléssel Kapcsolatos Kérdések" title="Közvetlen hivatkozás erre: Felszereléssel Kapcsolatos Kérdések">​</a></h3>
 <p><strong>1. Milyen dobfelszerelést vegyek kezdőként? Akusztikusat vagy elektronikusat?</strong>
 Ez az egyik legelső és legfontosabb kérdés. Röviden:</p>
 <ul>
@@ -1393,7 +1393,7 @@ Kezdőként nem szükséges a legdrágább felszerelést megvenni. Egy jó minő
 A legtöbb kezdőnek egy <strong>5A méretű, hickory fából készült, fa hegyű dobverő</strong> ajánlott. Ez egy sokoldalú, közepes súlyú verő. Ha kisebb a kezed vagy fiatalabb vagy, a 7A méret lehet kényelmesebb. (Erről részletesen itt olvashatsz:(/blog/elso-dobvero-valasztas-tippek))</p>
 <p><strong>4. Szükségem van gyakorlópadra, ha van dobfelszerelésem?</strong>
 Igen, nagyon ajánlott! A gyakorlópad (practice pad) kiváló eszköz a kéztechnika csiszolására, a rudimentek gyakorlására anélkül, hogy a teljes szettet használnád, vagy zavarnál másokat. Csendes, hordozható, és segít a fókuszált technikai munkában.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="gyakorlással-kapcsolatos-kérdések">Gyakorlással Kapcsolatos Kérdések<a href="https://your-docusaurus-site.example.com/blog/kezdo-dobosok-gyakori-kerdesei-gabor-valaszol#gyakorl%C3%A1ssal-kapcsolatos-k%C3%A9rd%C3%A9sek" class="hash-link" aria-label="Közvetlen hivatkozás erre: Gyakorlással Kapcsolatos Kérdések" title="Közvetlen hivatkozás erre: Gyakorlással Kapcsolatos Kérdések">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="gyakorlással-kapcsolatos-kérdések">Gyakorlással Kapcsolatos Kérdések<a href="https://giliandob.github.io/blog/kezdo-dobosok-gyakori-kerdesei-gabor-valaszol#gyakorl%C3%A1ssal-kapcsolatos-k%C3%A9rd%C3%A9sek" class="hash-link" aria-label="Közvetlen hivatkozás erre: Gyakorlással Kapcsolatos Kérdések" title="Közvetlen hivatkozás erre: Gyakorlással Kapcsolatos Kérdések">​</a></h3>
 <p><strong>5. Hogyan kezdjek el gyakorolni? Mit gyakoroljak először?</strong>
 Kezdd az alapokkal: helyes testtartás, laza dobverő fogás. Ezután jöhetnek az egyszerű egykezes és váltottkezes ütések metronómra, nagyon lassú tempóban. Koncentrálj a pontosságra és az egyenletességre. (Nézd meg ezt a cikket:(/blog/elso-doblecked-otthon-egyszeru-gyakorlatok))</p>
 <p><strong>6. Mennyi időt kell gyakorolnom naponta/hetente?</strong>
@@ -1402,7 +1402,7 @@ A rendszeresség fontosabb, mint a gyakorlási idő hossza. Inkább gyakorolj na
 Igen, erősen ajánlott! A metronóm segít a pontos tempótartás, a belső ritmusérzék kialakításában. Lehet, hogy az elején frusztráló, de hosszú távon a legjobb barátoddá válik. (Olvasd el:(/blog/metronom-barat-vagy-ellenseg-gyakorlas))</p>
 <p><strong>8. Hogyan tanuljak meg dalokat dobolni?</strong>
 Kezdd egyszerűbb dalokkal, amiknek tiszta, jól követhető a ritmusa. Először próbáld meg csak a fő ütemeket (lábdob, pergő) eljátszani. Hallgasd meg sokszor a dalt, figyeld a dob szólamát. Használhatsz kottákat vagy online tutorialokat is. A lényeg a türelem és a fokozatosság.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tanulással-és-fejlődéssel-kapcsolatos-kérdések">Tanulással és Fejlődéssel Kapcsolatos Kérdések<a href="https://your-docusaurus-site.example.com/blog/kezdo-dobosok-gyakori-kerdesei-gabor-valaszol#tanul%C3%A1ssal-%C3%A9s-fejl%C5%91d%C3%A9ssel-kapcsolatos-k%C3%A9rd%C3%A9sek" class="hash-link" aria-label="Közvetlen hivatkozás erre: Tanulással és Fejlődéssel Kapcsolatos Kérdések" title="Közvetlen hivatkozás erre: Tanulással és Fejlődéssel Kapcsolatos Kérdések">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tanulással-és-fejlődéssel-kapcsolatos-kérdések">Tanulással és Fejlődéssel Kapcsolatos Kérdések<a href="https://giliandob.github.io/blog/kezdo-dobosok-gyakori-kerdesei-gabor-valaszol#tanul%C3%A1ssal-%C3%A9s-fejl%C5%91d%C3%A9ssel-kapcsolatos-k%C3%A9rd%C3%A9sek" class="hash-link" aria-label="Közvetlen hivatkozás erre: Tanulással és Fejlődéssel Kapcsolatos Kérdések" title="Közvetlen hivatkozás erre: Tanulással és Fejlődéssel Kapcsolatos Kérdések">​</a></h3>
 <p><strong>9. Mennyi idő alatt lehet megtanulni dobolni?</strong>
 Ez nagyon egyénfüggő: függ a tehetségtől, a gyakorlásra szánt időtől, a motivációtól és a tanulási módszerektől. Alapvető ritmusokat néhány hét vagy hónap alatt el lehet sajátítani, de a dobolás, mint minden hangszer, egy életen át tartó tanulási folyamat. A cél ne a "megtanulás" legyen, hanem maga az utazás és a fejlődés öröme.</p>
 <p><strong>10. Szükségem van tanárra, vagy megtanulhatok egyedül is?</strong>
@@ -1421,17 +1421,17 @@ Ez teljesen normális! Minden dobos átesik ilyen időszakokon. Próbálj ki új
         </item>
         <item>
             <title><![CDATA[Dobolás Munka Mellett: Hogyan Szakíts Időt a Szenvedélyedre? 🎶💼]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/dobolas-munka-mellett-hogyan-szakits-idot</link>
-            <guid>https://your-docusaurus-site.example.com/blog/dobolas-munka-mellett-hogyan-szakits-idot</guid>
+            <link>https://giliandob.github.io/blog/dobolas-munka-mellett-hogyan-szakits-idot</link>
+            <guid>https://giliandob.github.io/blog/dobolas-munka-mellett-hogyan-szakits-idot</guid>
             <pubDate>Wed, 14 Oct 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Szeretnél dobolni, de úgy érzed, a munka, a család és a napi teendők mellett egyszerűen nincs rá időd? Sokan küzdenek ezzel a problémával, de hidd el, a dobolás beilleszthető egy sűrű időbeosztásba is! Praktikus tippeket adok, hogyan menedzseld az idődet, és hogyan tarthatod életben a dobolás iránti szenvedélyedet a mindennapok rohanásában.]]></description>
             <content:encoded><![CDATA[<p>Szeretnél dobolni, de úgy érzed, a munka, a család és a napi teendők mellett egyszerűen nincs rá időd? Sokan küzdenek ezzel a problémával, de hidd el, a dobolás beilleszthető egy sűrű időbeosztásba is! Praktikus tippeket adok, hogyan menedzseld az idődet, és hogyan tarthatod életben a dobolás iránti szenvedélyedet a mindennapok rohanásában.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-kihívás-időt-találni-a-dobolásra">A Kihívás: Időt Találni a Dobolásra<a href="https://your-docusaurus-site.example.com/blog/dobolas-munka-mellett-hogyan-szakits-idot#a-kih%C3%ADv%C3%A1s-id%C5%91t-tal%C3%A1lni-a-dobol%C3%A1sra" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Kihívás: Időt Találni a Dobolásra" title="Közvetlen hivatkozás erre: A Kihívás: Időt Találni a Dobolásra">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-kihívás-időt-találni-a-dobolásra">A Kihívás: Időt Találni a Dobolásra<a href="https://giliandob.github.io/blog/dobolas-munka-mellett-hogyan-szakits-idot#a-kih%C3%ADv%C3%A1s-id%C5%91t-tal%C3%A1lni-a-dobol%C3%A1sra" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Kihívás: Időt Találni a Dobolásra" title="Közvetlen hivatkozás erre: A Kihívás: Időt Találni a Dobolásra">​</a></h2>
 <p>Legyünk őszinték: a legtöbbünknek zsúfolt az élete. Munka, tanulás, családi kötelezettségek, egyéb hobbik – néha úgy tűnik, egy nap 24 órája semmire sem elég. Hogyan lehet ebbe még a dobolást is bepréselni, ami ráadásul rendszeres gyakorlást igényelne?
 A kulcs nem a több idő varázslatos megtalálásában rejlik, hanem a <strong>tudatos tervezésben, a prioritások felállításában és a hatékony gyakorlási módszerekben</strong>. Sokan gondolják, hogy csak akkor érdemes dobolni, ha órákat tudnak rászánni egyhuzamban. Ez azonban tévhit!</p>
 <p><strong>Tapasztalatom:</strong> "Rengeteg tanítványom van, aki teljes munkaidő mellett, családapaként vagy elfoglalt diákként tanul dobolni. A titkuk nem a végtelen szabadidő, hanem az elkötelezettség és a képesség, hogy a rendelkezésre álló rövid időszakokat is maximálisan kihasználják. A dobolásnak <strong>szívből kell szólnia</strong>, és ha ez a szenvedély megvan, az időt is meg fogod találni rá."</p>
-<p><img decoding="async" loading="lazy" alt="Kép" src="https://your-docusaurus-site.example.com/assets/images/image1-9e9cad94bbf0518f35d75a64841ea5b8.jpg" width="6000" height="4000" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="stratégiák-az-idő-menedzselésére-és-hatékony-gyakorlásra">Stratégiák az Idő Menedzselésére és Hatékony Gyakorlásra<a href="https://your-docusaurus-site.example.com/blog/dobolas-munka-mellett-hogyan-szakits-idot#strat%C3%A9gi%C3%A1k-az-id%C5%91-menedzsel%C3%A9s%C3%A9re-%C3%A9s-hat%C3%A9kony-gyakorl%C3%A1sra" class="hash-link" aria-label="Közvetlen hivatkozás erre: Stratégiák az Idő Menedzselésére és Hatékony Gyakorlásra" title="Közvetlen hivatkozás erre: Stratégiák az Idő Menedzselésére és Hatékony Gyakorlásra">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="Kép" src="https://giliandob.github.io/assets/images/image1-9e9cad94bbf0518f35d75a64841ea5b8.jpg" width="6000" height="4000" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="stratégiák-az-idő-menedzselésére-és-hatékony-gyakorlásra">Stratégiák az Idő Menedzselésére és Hatékony Gyakorlásra<a href="https://giliandob.github.io/blog/dobolas-munka-mellett-hogyan-szakits-idot#strat%C3%A9gi%C3%A1k-az-id%C5%91-menedzsel%C3%A9s%C3%A9re-%C3%A9s-hat%C3%A9kony-gyakorl%C3%A1sra" class="hash-link" aria-label="Közvetlen hivatkozás erre: Stratégiák az Idő Menedzselésére és Hatékony Gyakorlásra" title="Közvetlen hivatkozás erre: Stratégiák az Idő Menedzselésére és Hatékony Gyakorlásra">​</a></h2>
 <p>Íme néhány bevált módszer, ami segíthet, hogy a dobolás ne csak álom maradjon, hanem a mindennapjaid részévé váljon:</p>
 <ol>
 <li>
@@ -1469,7 +1469,7 @@ A kulcs nem a több idő varázslatos megtalálásában rejlik, hanem a <strong>
 </li>
 </ol>
 <p>``</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-dobolás-mint-stresszoldás-és-kikapcsolódás">A Dobolás Mint Stresszoldás és Kikapcsolódás<a href="https://your-docusaurus-site.example.com/blog/dobolas-munka-mellett-hogyan-szakits-idot#a-dobol%C3%A1s-mint-stresszold%C3%A1s-%C3%A9s-kikapcsol%C3%B3d%C3%A1s" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Dobolás Mint Stresszoldás és Kikapcsolódás" title="Közvetlen hivatkozás erre: A Dobolás Mint Stresszoldás és Kikapcsolódás">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="a-dobolás-mint-stresszoldás-és-kikapcsolódás">A Dobolás Mint Stresszoldás és Kikapcsolódás<a href="https://giliandob.github.io/blog/dobolas-munka-mellett-hogyan-szakits-idot#a-dobol%C3%A1s-mint-stresszold%C3%A1s-%C3%A9s-kikapcsol%C3%B3d%C3%A1s" class="hash-link" aria-label="Közvetlen hivatkozás erre: A Dobolás Mint Stresszoldás és Kikapcsolódás" title="Közvetlen hivatkozás erre: A Dobolás Mint Stresszoldás és Kikapcsolódás">​</a></h2>
 <p>Fontos, hogy a dobolásra ne plusz teherként, hanem feltöltődésként tekints. A zene és a ritmus bizonyítottan stresszoldó hatású. Egy fárasztó nap után a dobolás segíthet "kiütni" a feszültséget, és teljesen más dimenzióba helyezhet.</p>
 <ul>
 <li><strong>Élvezd a folyamatot:</strong> Ne csak a cél lebegjen a szemed előtt, hanem élvezd magát a zenélést, a hangszereddel való kapcsolatot.</li>
@@ -1477,9 +1477,9 @@ A kulcs nem a több idő varázslatos megtalálásában rejlik, hanem a <strong>
 <li><strong>Ne félj hibázni:</strong> A hibák a tanulási folyamat részei. Tekints rájuk lehetőségként a fejlődésre.</li>
 </ul>
 <p><strong>Bátorításom:</strong> "Ha a dobolás valóban a szenvedélyed, akkor az nem elveszi az energiádat, hanem ad! Tekints rá úgy, mint egy énidőre, amikor csak magadra és a zenére koncentrálsz. Meglátod, ez a hozzáállás segít abban, hogy rendszeresen időt szakíts rá, még a legelfoglaltabb napokon is."</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kommunikáció-és-támogatás">Kommunikáció és Támogatás<a href="https://your-docusaurus-site.example.com/blog/dobolas-munka-mellett-hogyan-szakits-idot#kommunik%C3%A1ci%C3%B3-%C3%A9s-t%C3%A1mogat%C3%A1s" class="hash-link" aria-label="Közvetlen hivatkozás erre: Kommunikáció és Támogatás" title="Közvetlen hivatkozás erre: Kommunikáció és Támogatás">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kommunikáció-és-támogatás">Kommunikáció és Támogatás<a href="https://giliandob.github.io/blog/dobolas-munka-mellett-hogyan-szakits-idot#kommunik%C3%A1ci%C3%B3-%C3%A9s-t%C3%A1mogat%C3%A1s" class="hash-link" aria-label="Közvetlen hivatkozás erre: Kommunikáció és Támogatás" title="Közvetlen hivatkozás erre: Kommunikáció és Támogatás">​</a></h2>
 <p>Beszélj a családoddal, lakótársaiddal a hobbidról. Ha megértik, hogy ez fontos neked, valószínűleg jobban támogatnak abban, hogy időt és teret biztosítsanak a gyakorlásra. Egy elektronikus dob fejhallgatóval itt is nagy segítség lehet a béke megőrzésében.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="végszó">Végszó<a href="https://your-docusaurus-site.example.com/blog/dobolas-munka-mellett-hogyan-szakits-idot#v%C3%A9gsz%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Végszó" title="Közvetlen hivatkozás erre: Végszó">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="végszó">Végszó<a href="https://giliandob.github.io/blog/dobolas-munka-mellett-hogyan-szakits-idot#v%C3%A9gsz%C3%B3" class="hash-link" aria-label="Közvetlen hivatkozás erre: Végszó" title="Közvetlen hivatkozás erre: Végszó">​</a></h2>
 <p>Időt szakítani a dobolásra munka és egyéb kötelezettségek mellett valóban kihívást jelenthet, de nem lehetetlen. Tudatos tervezéssel, hatékony gyakorlási módszerekkel, és ami a legfontosabb, a zene iránti szenvedéllyel és elkötelezettséggel sikerülhet. Ne feledd, a dobolás egy csodálatos hobbi, ami rengeteg örömet és sikerélményt adhat. Ha pedig úgy érzed, szükséged van egy kis iránymutatásra vagy személyre szabott segítségre, hogy a legtöbbet hozd ki a gyakorlási idődből, keress bizalommal! Találjuk meg együtt a te ritmusodat a mindennapokban, hogy a játékod mindig <strong>szívből szólhasson</strong>!</p>]]></content:encoded>
             <category>dobolás munka mellett</category>
             <category>időbeosztás</category>
