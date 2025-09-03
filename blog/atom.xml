@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://giliandob.github.io/blog</id>
-    <title>Gilián Dobiskola Blog</title>
+    <title>Gilián Dobiskola | Csepel Blog</title>
     <updated>2025-04-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://giliandob.github.io/blog"/>
-    <subtitle>Gilián Dobiskola Blog</subtitle>
+    <subtitle>Gilián Dobiskola | Csepel Blog</subtitle>
     <icon>https://giliandob.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Az Afro-Kubai Rumba Mélységei: Güagüancó, Yambú és Columbia Dobfelszerelésen 🇨🇺🌶️🥁]]></title>
